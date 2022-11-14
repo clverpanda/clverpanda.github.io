@@ -5,20 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:WMtSwHiS3qlM6hOJ3wgHs
+UID:INdeAPgntwLsHDkvCOADW
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
-DTSTART:20221116T120000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
-	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
-	L\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338523/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:JBE8JahN4vjyBql7lZbxM
-SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221123T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -27,9 +16,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:CSw2uQHWiRIqk5XUiEXx8
+UID:4ZhGOh5XJT2EBnEn2AcwC
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221130T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -38,9 +27,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:JXzDnFPwW1CksLHphAZVo
+UID:iPa7nYNVUw8o2p_2LPZbY
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221207T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -49,9 +38,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OdwFUSZ-5Nc8gagIOk4BK
+UID:8qKHiG7GYKasp5wGnMxbb
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221214T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -60,9 +49,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PSLyz5tW58kxvzWZqGYTT
+UID:C-RyDuxhKc00q5pBPOZvo
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221221T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -71,9 +60,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:zXz0r7oMbw41wR2_nPwci
+UID:eXTQRULsR-EARCGZGMmTH
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221228T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -82,9 +71,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZYV4IofxpTnXu7lPjp3tU
+UID:jA-IuhIpdYLyaaEJwjbi4
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230104T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -93,9 +82,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cRXptPbOIpZzl7HACj6GT
+UID:01pu43NZGKwz_Qe2Ss4_s
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230111T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -104,9 +93,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8dyE33VuC42eMweLZbpUk
+UID:b6JMuNxYbpm2X2bZ7-60t
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230118T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -115,9 +104,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lTUniew7opOiPYb-I35Hr
+UID:Ybrmhu3E67vdA7ipfbMbb
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230125T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -126,9 +115,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:AuPwXVtCrh-c6Ql9uvNM3
+UID:cfyqsRJFhDrGgkA70uvsD
 SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230201T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
@@ -137,20 +126,20 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Dun1mc1qyr2FSGH3StuNm
-SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
-DTSTART:20221107T120000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
-	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
-	/bangumi/media/md28338550/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
+UID:p-gxd6aam-4gmxOB9oTrC
+SUMMARY:上季旧番：《继母的拖油瓶是我的前女友》
+DTSTAMP:20221114T102000Z
+DTSTART:20230208T120000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118777\nAni-One As
+	ia：https://www.youtube.com/playlist?list=PLxSscENEp7Jg0Ps_GamUlKlBWXw0A_oK
+	L\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338523/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=118777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:c6FgSyxp0rsC6zP2q4pUj
+UID:zmBkyzPlcpR-eis2xbd5J
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221114T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -159,9 +148,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ALplQH8tY6tOzVPRz4TM5
+UID:oRE5J1BEANJ96_SjwRlv3
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221121T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -170,9 +159,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:I_UDErbETdCKDUViizpX1
+UID:IF8pnbmW11uCjr62-bK1_
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221128T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -181,9 +170,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OOWG96_QpHdngNVawtKiC
+UID:axWC9olWz7vTqUtl84t0c
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221205T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -192,9 +181,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DGlCO_5WaBUm1zH3utkSC
+UID:-cOhNhnmFcq158m_8L4Y-
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221212T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -203,9 +192,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:NPOIXyS08TaZEMouqEh8e
+UID:rH08D0rdKD3BsUuqtlGZ8
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221219T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -214,9 +203,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:CiT13vsLEdikyXSsN3u0H
+UID:La6ZKcZ7lip3wbe4Iweoh
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221226T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -225,9 +214,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rz0t6_PufEL2DUsK4lRrd
+UID:a2IViRIs5K_dgAp2lU16n
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230102T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -236,9 +225,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iG95WBX4bvDnq6kI7L7Om
+UID:2k-rgMGnA8QXVACjz6f1T
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230109T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -247,9 +236,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Dpbxqcpsei6vSRalICCaQ
+UID:Z2cDTLdJOw6c00KdjyEfh
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230116T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -258,9 +247,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xyC4i9ERGZ6IZ2o1uMmQl
+UID:0t5h38P2Uv3zaeD7zXOPN
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230123T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -269,9 +258,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8Yp0CfyBIYrYi5yotPdVx
+UID:1WrWHV4yXqArAJcV4xC3g
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230130T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -280,9 +269,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_XcJcQMVQkmJWQWBaqWf_
+UID:9YClZTmC7YsWIlkEXRYBF
 SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230206T120000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
 	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
@@ -291,20 +280,20 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lgvNu4ItcYAIKaxWnd0w5
-SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
-DTSTART:20221118T162500Z
-DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
-	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
-	tube.com/playlist?list=PLuxqoToY7UchpB3_9Rr4W5xzGYr1VzEMF
-URL:https://www.bilibili.com/bangumi/media/md28338419/
+UID:KY63dhxk_oYnvMMkkV4kW
+SUMMARY:上季旧番：《欢迎来到实力至上主义教室 2nd Season》
+DTSTAMP:20221114T102000Z
+DTSTART:20230213T120000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122954\nViu：https:
+	//www.viu.com/ott/hk/zh-hk/vod/443581/\n哔哩哔哩（港澳台）：https://www.bilibili.com
+	/bangumi/media/md28338550/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=122954
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:x7tANemgmOfASvMVjVMoa
+UID:CdVnS30SuCGjayfwPMz4S
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221125T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -313,9 +302,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LHmprD-lcb3LtEHaQpffF
+UID:h39t7nue7HufyNyRVVu2C
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221202T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -324,9 +313,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:pSHrIAWK7-tWV4-bDGIpR
+UID:_zQiNoEvLWz_KCDLQWyN3
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221209T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -335,9 +324,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3SZpI4y2Cc-5KQzxNQzDM
+UID:d00mI2Ujji_aLQhSnhrCH
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221216T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -346,9 +335,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gG8TUkjRQ0L7f2HQNwmiu
+UID:-TxPYHXv0i2jLl3zMXo56
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221223T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -357,9 +346,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:quNyCgDtlFEED4pZ43ad6
+UID:Hf_nmvX3k4PlH3j54hToq
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221230T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -368,9 +357,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ppsoUgcaQWZi8iPf7NKRc
+UID:GznX0KA9dCL2YjC5Q_lcM
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230106T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -379,9 +368,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ga6LVJPmBatm4CFcXM_qA
+UID:tEJMqoLEa7tfCx2wCOGTE
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230113T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -390,9 +379,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-1dbgf-137T3pJsyy0IX-
+UID:CPhS0j1223Ns3YU0PYmVd
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230120T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -401,9 +390,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZH9yyiDOULVKEt_QW2Cpr
+UID:C_tMmYb2NKZkuiiOyKlZ-
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230127T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -412,9 +401,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:kiM4JWWJZoVVnWfKx2lpN
+UID:aJA_PsCNMm7qiCkvjHv4v
 SUMMARY:上季旧番：《租借女友 第二季》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230203T162500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
@@ -423,128 +412,128 @@ URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:EV7RQyP8m4E8ZBvjM5J4V
-SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
-DTSTART:20221117T163500Z
-DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
-URL:https://www.bilibili.com/bangumi/media/md28338487/
+UID:4NLcT2l92_sG9HCC4J9zo
+SUMMARY:上季旧番：《租借女友 第二季》
+DTSTAMP:20221114T102000Z
+DTSTART:20230210T162500Z
+DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338419/\n動
+	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122289\n木棉花 HK：https://www.you
+	tube.com/playlist?list=PLuxqoToY7UchpB3_9Rr4W5xzGYr1VzEMF
+URL:https://www.bilibili.com/bangumi/media/md28338419/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vOxecbp9PPTxyET4S20BX
+UID:yEZcONOrgO7heT4A4__ZK
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221124T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_rT-L30T6bXhsq3o_AgGV
+UID:DuA62nWQ32LMtjStCMB5A
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221201T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:njrNoKc2klG2MR-c3Fodu
+UID:7WBBcUL4liqaljvixs9bT
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221208T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0Tq7aajBij1TkniqA_2uf
+UID:jqtMVEOOWU5XZoEcQRkRj
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221215T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7UZaWuc-RCWk8zgxlIz62
+UID:YL4bx0aBvVCM6LivOovMG
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221222T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:hK_MFeR80Ite_TgeQzhYs
+UID:hQuXtUdrf2wm4sa_fPlRD
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221229T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:AG5VIDn-QdUfTqBHhGkEc
+UID:7oTF4jLOlyhDo_Z9RFvo-
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230105T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5qTqCp6quOGUTJ0X9fN1G
+UID:cYN8a5a0m0x3QWfWB-2tf
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230112T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:eWFhahpZ1zEKA5hCqCJF0
+UID:_JlB3RZ4nJmVU6k09k3tG
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230119T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vwugxzVVXscucQVyRlZzN
+UID:UM8qigjsvhztfPBysyTM1
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230126T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jtqQFEputc8oi2c1ls6Cr
+UID:Y31SQ7x0alxoF229rY-66
 SUMMARY:上季旧番：《就算这样，仍然步步进逼》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230202T163500Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
 URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fbsFOMAjTUNCpGo_CSBFT
-SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
-DTSTART:20221115T153000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
-	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
-	U\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338451/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
+UID:aTugwEc2kzBFCaXJdzbDX
+SUMMARY:上季旧番：《就算这样，仍然步步进逼》
+DTSTAMP:20221114T102000Z
+DTSTART:20230209T163500Z
+DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338487/
+URL:https://www.bilibili.com/bangumi/media/md28338487/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VFIWyERvH3wwID5Vc8mLa
+UID:id9fhj9Bhp0cZpP4LURzK
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221122T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -553,9 +542,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-dh8r5ekMjBjv7ZfYAGtX
+UID:JYZQP1vCLelRPfVvc6eQN
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221129T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -564,9 +553,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:KU3372fF3aGREnN3v-EXP
+UID:cUNXJiKg3Uq93eEWJmZ2a
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221206T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -575,9 +564,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:j7SotTrQjS4AuWJuEhnej
+UID:upXpCiXFHNGFJsvgyJh6Y
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221213T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -586,9 +575,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Yp9eSXX0xpDnkElTPweJY
+UID:k48jqTJKWguR4exmd3wOg
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221220T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -597,9 +586,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DR2AcKzTnGHlfakQOt7le
+UID:RJNucoIlIjsHPbLqxRdrs
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221227T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -608,9 +597,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LK_c-zUrt6xpcPpdhUyyO
+UID:Q_p-QEbMziDTItmHOv8bJ
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230103T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -619,9 +608,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Zv7Y3Ukstopo0aooP5MLy
+UID:iXo_-6YxaZYVtAs9FDPeL
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230110T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -630,9 +619,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ahij4F1t8X2WQpKhqHsSb
+UID:ZUnqYa0DxBUok1-sRPS1k
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230117T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -641,9 +630,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Czaj6wW9gfamqj5NWuZgw
+UID:bi9N2zy9lV0xnRGsaTKkO
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230124T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -652,9 +641,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:j7IwcYZ63tGY3uvKQM_Ex
+UID:J6Brb1Iq96x7LrpQVLkJx
 SUMMARY:上季旧番：《转生贤者的异世界生活》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230131T153000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
@@ -663,19 +652,20 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:884SR0pb5-N9Kmvo53v2T
-SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
-DTSTART:20221119T153000Z
-DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
-	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
-URL:https://www.bilibili.com/bangumi/media/md28338525/
+UID:NbGiKSdB3ovVB_P9F4A5u
+SUMMARY:上季旧番：《转生贤者的异世界生活》
+DTSTAMP:20221114T102000Z
+DTSTART:20230207T153000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=119723\nAni-One As
+	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVY
+	U\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338451/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=119723
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:J0oZFDWP7t1DCgF60tD2J
+UID:_JDUsU0pwnZTP-R-scxDY
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221126T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -683,9 +673,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rVpHL2ab4bFtardoUjbwE
+UID:3c4VlyaC4ePpoh_uSjR6Q
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221203T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -693,9 +683,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9bVle0nJOvXiRt3eq0h9w
+UID:5Si8qg7OOGx59pOKbrn6i
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221210T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -703,9 +693,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iQtl7tlp1AF4P5oorpajw
+UID:mZ6TdtxPlcttz8NDAwrKU
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221217T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -713,9 +703,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lfRYcjcvpyz_MHMjwV04K
+UID:rdZb-5FiX33TJy4fDdgql
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221224T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -723,9 +713,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bVMrnWAJL-eOjp_9WiA6D
+UID:8eJaXOnC22txpSzMNQAgQ
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221231T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -733,9 +723,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:l36o2Q-qyhEvreYd9f2XK
+UID:dnCoCveAyaHUDB5LDsdDN
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230107T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -743,9 +733,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Zy2QG_Nn3U8yy_VZ4iYwb
+UID:dOrylDd0SIlVgMZdBVm6Q
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230114T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -753,9 +743,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ElUQiquWSdjE34Wl2oNeF
+UID:MsDLYFO7oTWMQWwQEFHFZ
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230121T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -763,9 +753,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f8zk3yYNQjvs-oyCYJa0z
+UID:9ECf3wOaOkkwBPe0N-msB
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230128T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -773,9 +763,9 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b4bRvWbceE0RJJZ462VbP
+UID:G5dVddMXYoOGFXr1Ol_5i
 SUMMARY:上季旧番：《契约之吻》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230204T153000Z
 DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
 	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
@@ -783,116 +773,115 @@ URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:MjKEjZYNfKFdf5zEWyd6T
-SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
-DTSTART:20221116T130000Z
-DESCRIPTION:无
+UID:TkgXThssbbpgdtR1IP9me
+SUMMARY:上季旧番：《契约之吻》
+DTSTAMP:20221114T102000Z
+DTSTART:20230211T153000Z
+DESCRIPTION:哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/md28338525/\n動
+	畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=123572
+URL:https://www.bilibili.com/bangumi/media/md28338525/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qPmyEfCfJIxidCmpY_Rcr
+UID:6xWrjVqbS-7m5FI-T-zpG
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221123T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SbbY55OZu5_SNCrOv4jbo
+UID:bIn234fvOIkSYZM-DBwqq
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221130T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rKWEv5ZV4gL3g23rFHWZP
+UID:WNpPKyD3y9oB7QbVPjCB2
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221207T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:dQTZYHPAu9uZF7nVKmF_A
+UID:KRyyv6xVVNDI-iWr-WtQQ
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221214T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1R16p9a8-Om0x8LRwBc1J
+UID:Xnz7Ps6AoFzsEGfI0j9Cs
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221221T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:W6o5LT1OEoJdNuJuRlx2q
+UID:C0zXoPW4GO1VaMNoNPbRa
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221228T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Fx_lHSfjHfFgD-Ynp--Pk
+UID:wDF8kpGqse1F-Hy4v6OL1
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230104T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XOE_GfBfylETCExXJx7Ud
+UID:wkjRv_jidm2fDwR8Z729-
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230111T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:CEuCslX6Vep0Q9tvHq9Jd
+UID:P3IQ5PZbf7fVwiuUHyYXV
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230118T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qrBcJMjvASSy1qTnc8Ndf
+UID:KXs_jwMD50cJpGG80k0-K
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230125T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:x7UPNvbei7SU9DAAQcFjZ
+UID:QyOV40wbn9rxM8ObkcLBK
 SUMMARY:上季旧番：《异世界舅舅》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230201T130000Z
 DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:tcgMYRr07tAvZXkApJxav
-SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
-DTSTART:20221117T143000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
-	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
-	m/ott/hk/zh-hk/vod/444494/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
+UID:UeZaFGIbd1_OZYgn2ukVq
+SUMMARY:上季旧番：《异世界舅舅》
+DTSTAMP:20221114T102000Z
+DTSTART:20230208T130000Z
+DESCRIPTION:无
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:A64TMAtWMfD6rzzJzXAIt
+UID:PLj9xXJ8zwKFRMnE5yQWx
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221124T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -901,9 +890,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:I7tyx1j1XXkQCWGb_Nedq
+UID:iw1hlMBiYShO-2nQdhx1I
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221201T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -912,9 +901,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:N2K7tQS1dJ08xqIawgzGr
+UID:MEvKHEYf4OzG_EHDxPKeY
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221208T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -923,9 +912,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gSCcdJoBXgEfCuzo81jbs
+UID:_3Yy1LbtwI9zQSak05zsG
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221215T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -934,9 +923,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:glNE9-ai71zEpNBgRXXvw
+UID:-eQbHAstzClRtdzV1VocX
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221222T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -945,9 +934,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_lpYt2aQ92ZPzU-nlM38U
+UID:fxz1-OrQd5OVCyObIdQBt
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221229T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -956,9 +945,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:INVI3rRO02juBFYKfQDpX
+UID:cGRbbkeozWxJP7ndKUiTA
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230105T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -967,9 +956,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XpuKj5qpJILX0TaC6JgLg
+UID:2_6io-ZNUvjgQuehaQ1hD
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230112T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -978,9 +967,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LDY4y_7_WeTG0FxrDDGax
+UID:TPHu_5j5TR4SI0rQjkgJp
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230119T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -989,9 +978,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LnGVVx6DxT7yH1RrMH-RN
+UID:uR_OsSptE_S1JXp8uPxQs
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230126T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -1000,9 +989,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:geDGo4pzpVRfIEs3Ogx4B
+UID:vZP-60s-9B4gvqbnpOUI2
 SUMMARY:上季旧番：《打工吧！！魔王大人》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230202T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
@@ -1011,129 +1000,128 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QQemhj62mGerYmEBw9HkT
-SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
-DTSTART:20221119T143000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
-URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
+UID:dAnJ4IcQzaXkemWGWf3Si
+SUMMARY:上季旧番：《打工吧！！魔王大人》
+DTSTAMP:20221114T102000Z
+DTSTART:20230209T143000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=116225\n哔哩哔哩（港澳台）：
+	https://www.bilibili.com/bangumi/media/md28338627/\nViu：https://www.viu.co
+	m/ott/hk/zh-hk/vod/444494/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=116225
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SP45EsZDffCH742rtfRs1
+UID:RfX-pygd48r0Pgglvdl3z
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221126T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:z0R4LYr8oONu8_k4SjxRY
+UID:V37iV_0BKORof9KXZF7Ul
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221203T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ttyFxyGWqLDKmmJh2oQZl
+UID:lRo0jG6jU8EXK9YkwmeVu
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221210T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qW2BHpyry-ew9zK2QpSfu
+UID:UzRO9oe60EPgwkvIrwpSK
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221217T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:legShYtQpfoIv2vdfVQgG
+UID:23QF7Vr48AudpkKfrWvRZ
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221224T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZJZDUXxY3K8drAE9IHL2y
+UID:RxLkpjyVEj57opNEUWsK4
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221231T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_F-YH0RCSUY9pfc4bMvbL
+UID:RhroK6pZ2qwqh5eD39I8_
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230107T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:eJrjuhr6xJhudIU9rjfNc
+UID:EejwIjqye5-vnPcy1y4gv
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230114T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ubqGRV2ZcANq3vFXuF2JI
+UID:d0iEhEcpXGMRE-X2Hwaim
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230121T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:X043H1TsdHKRKLv9jtL9b
+UID:pfqp8m3keBfb1gf71J3eS
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230128T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3UCxrhItke8Jq7TepYkcm
+UID:T0YXIB6ZRDsdKeB85GSGq
 SUMMARY:上季旧番：《莉可丽丝》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230204T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
 URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mN-rjAUKX1OQbJKoHu3_H
-SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
-DTSTART:20221115T130000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
-	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
-	x\nViu：https://www.viu.com/ott/hk/zh-hk/vod/443773/\n哔哩哔哩（港澳台）：https://www
-	.bilibili.com/bangumi/media/md28338447/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
+UID:4xpwpxxX_Pj0EmuPdYVDz
+SUMMARY:上季旧番：《莉可丽丝》
+DTSTAMP:20221114T102000Z
+DTSTART:20230211T143000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=121217
+URL:https://acg.gamer.com.tw/acgDetail.php?s=121217
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SEgQMKi7R6OxaHz9LfExi
+UID:moTqYnBWF0usCuqradzmm
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221122T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1143,9 +1131,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fhX7T9Ive4baTqlGmZ7wA
+UID:cRW71x1WJz2CpWgJcpdr-
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221129T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1155,9 +1143,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:FDVPRauFCluLPDAqkzIMZ
+UID:ztwyKShkQtn5Ixhr-Yyfk
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221206T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1167,9 +1155,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1wO72tw2gsXEDADHLw82x
+UID:dIm6BHIuEJyhySajL5_Gc
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221213T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1179,9 +1167,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gb9MIN_YdMuY9JG2f21Ig
+UID:MVDe3vwERXvjUe0LYE-x5
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221220T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1191,9 +1179,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:96Q6J-_OSXN8Yyr6iy-Go
+UID:iTb94uWR8cMneXJu2ygbO
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221227T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1203,9 +1191,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:le_jAy2HN6ZU3XeQm-WBE
+UID:baotzakUV871_j-m3gzbr
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230103T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1215,9 +1203,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZBHjuxqsEelujh2OgYh-M
+UID:1JKR2m2VaFiW0y2wgejkA
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230110T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1227,9 +1215,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yMYgAD0ZeZ8r5FePxTHch
+UID:JMD8l6OTVKls-h7hS2dE9
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230117T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1239,9 +1227,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:UpfOhVRjKXyEsROT5-Kb-
+UID:_r3PuUPgeX4LJsiI05YVu
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230124T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1251,9 +1239,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SW9c_t6F6OWl9ZKyg8R1L
+UID:X0V1Vux5Xp7_H6z065bRF
 SUMMARY:上季旧番：《OVERLORD IV》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230131T130000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
 	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
@@ -1263,20 +1251,21 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qB8WceaPTdZNw-yU3LlKY
-SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
-DTSTART:20221116T143000Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
-	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
-	ww.youtube.com/playlist?list=PLxSscENEp7JibYKTMwcNi7CH9vdBC9HS7
-URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
+UID:VnetsndiDEvDzmNqi4vTn
+SUMMARY:上季旧番：《OVERLORD IV》
+DTSTAMP:20221114T102000Z
+DTSTART:20230207T130000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=117446\nAni-One As
+	ia：https://www.youtube.com/playlist?list=PLxSscENEp7JjqetlKeUq9vjhLa8yg4vB
+	x\nViu：https://www.viu.com/ott/hk/zh-hk/vod/443773/\n哔哩哔哩（港澳台）：https://www
+	.bilibili.com/bangumi/media/md28338447/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=117446
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:z153EuJlCvhbDWB5S5R8C
+UID:XGvrm_czZNJWk5UI2lWBM
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221123T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1285,9 +1274,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8f3MOWw3xTkUV-aSnvI6I
+UID:PCMuX2MmLdIrQMC8vtMLH
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221130T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1296,9 +1285,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_HWb-jIfv71ydL8UZy1Gm
+UID:TJffsS3yWGaVRY2Hcs-px
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221207T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1307,9 +1296,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:WMHaPuopnj9WBuyEUdbS_
+UID:Q4Hq0HgJMB5_l3LWd57t0
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221214T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1318,9 +1307,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:I99rQbEZbAVn5chk8mnBt
+UID:LEFGy4Lr4lyo0IYEgzux-
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221221T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1329,9 +1318,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:YmtzPpcWi1HcfBwqkSk0l
+UID:Zh6SwiaV3C3w_XO7RKub-
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221228T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1340,9 +1329,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bHJbOiJOj_pXt9PcmIy8_
+UID:7jYL9GOEBB_AmTPPfjZYH
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230104T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1351,9 +1340,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:UPo8woFUYPAiCybR3lF4T
+UID:MPh4uZXP5u2SnjIySFOHT
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230111T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1362,9 +1351,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9mch1DH5r9QgSXgi6SRNK
+UID:EXiGiaIt8WkbYZGXVmW6G
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230118T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1373,9 +1362,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZMTJ9eU06m6HBO4iQBxP2
+UID:qr2V1B5eupRJ6nB9Zdm6o
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230125T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1384,9 +1373,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:203wwxgt_s1aFgrnTVZPC
+UID:jFN_RGB2wWoKXdYGB2f5-
 SUMMARY:上季旧番：《在异世界迷宫开后宫》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230201T143000Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
 	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
@@ -1395,20 +1384,20 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yJdubn0EdN64wHfPL_05L
-SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
-DTSTART:20221118T160500Z
-DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
-	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
-	/ott/hk/zh-hk/vod/445552/
-URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
+UID:TDkAoHBn-MxBOwQdX6Dot
+SUMMARY:上季旧番：《在异世界迷宫开后宫》
+DTSTAMP:20221114T102000Z
+DTSTART:20230208T143000Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=114959\n哔哩哔哩（港澳台）：
+	https://www.bilibili.com/bangumi/media/md28338664/\nAni-One Asia：https://w
+	ww.youtube.com/playlist?list=PLxSscENEp7JibYKTMwcNi7CH9vdBC9HS7
+URL:https://acg.gamer.com.tw/acgDetail.php?s=114959
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:HkjrR9SN2vlfCsJ6XwIfL
+UID:FeK8IsR4NwiR1DGvzf_Mn
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221125T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1417,9 +1406,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SMaBbwDdJplfikOXfRTY-
+UID:4fZAdvjusCO8WXBhF_Iye
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221202T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1428,9 +1417,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:U4GS_bDfADFBGb6UcIy1L
+UID:th_ro9V9hhQQ1jcDu866Q
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221209T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1439,9 +1428,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LwzrdICdKAXhUrUvOPlFk
+UID:2DcStlf1lctCyUV0ELPQ8
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221216T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1450,9 +1439,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZEQpg3g6SyTM4sMGyAWcQ
+UID:zioCm5C_3rcXx5ivAMGPK
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221223T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1461,9 +1450,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gCZIcRpHICjuDwg7yUDU-
+UID:87kXas6sRtQEUwOglp9_-
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20221230T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1472,9 +1461,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:TUTVMJT-JgJMp6JrjWeZ7
+UID:opxP1J_V6SY0SP4qH5SSN
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230106T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1483,9 +1472,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:A23YkU6LKQ_kjg_dCZpkF
+UID:CDtWEKXSv6d8aIGJJcSNh
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230113T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1494,9 +1483,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1z_nu9dRluSWXuhESpIuv
+UID:PXgpMjvz8bg9XvNdmgTVd
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230120T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1505,9 +1494,9 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:kBGbXoCSkIYnkTLRjvofD
+UID:tZrc-8nqA-ImVMVD1XqU9
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230127T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
@@ -1516,10 +1505,21 @@ URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ut2-hfYUzoBPErlbYd-Kp
+UID:wC-k4t2Xnhqk_TYGOlinu
 SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
-DTSTAMP:20221107T102000Z
+DTSTAMP:20221114T102000Z
 DTSTART:20230203T160500Z
+DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
+	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
+	/ott/hk/zh-hk/vod/445552/
+URL:https://acg.gamer.com.tw/acgDetail.php?s=115681
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:02oIiwrKnhRpeIEtUv-xY
+SUMMARY:上季旧番：《期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇》
+DTSTAMP:20221114T102000Z
+DTSTART:20230210T160500Z
 DESCRIPTION:動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=115681\n哔哩哔哩（台灣）：h
 	ttps://www.bilibili.com/bangumi/media/md28338720/\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/445552/
