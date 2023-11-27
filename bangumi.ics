@@ -5,21 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Y4LT_7aUUPNn9MRXEKFF7
+UID:y-mpHqiYnlwMcTSlV2AAQ
 SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
-DTSTART:20231124T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
-	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
-	\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=127137\n哔哩哔哩：https://www.bi
-	libili.com/bangumi/media/md21087073/
-URL:https://bangumi.tv/subject/400602
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:oJZaF2_taJnO0BqF3wS6o
-SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231201T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
 	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
@@ -29,9 +17,9 @@ URL:https://bangumi.tv/subject/400602
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XuUUvA05icOVsXDhvNin-
+UID:mAj1Px5SiPsQhW0p2_XRP
 SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231208T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
 	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
@@ -41,9 +29,9 @@ URL:https://bangumi.tv/subject/400602
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:R6p_5UG1WY7-fuoSO-mDu
+UID:WXToaXY3_w-H_VkWX9rz8
 SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231215T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
 	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
@@ -53,9 +41,9 @@ URL:https://bangumi.tv/subject/400602
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:hT3Q2ChMuBDRq_UOfPPYg
+UID:H9S7jAW3yZyzijrw1orjG
 SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231222T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
 	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
@@ -65,9 +53,9 @@ URL:https://bangumi.tv/subject/400602
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:R4w6rXkdMlJdmN59cMmmF
+UID:V_5U4zqm5Sb-h1Okc0c1g
 SUMMARY:本季新番：《葬送的芙莉莲》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231229T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400602\nNetflix：https://www.net
 	flix.com/title/81726714\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2247874/
@@ -77,21 +65,9 @@ URL:https://bangumi.tv/subject/400602
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vlJXUKdcQU0IQ9PewE4PM
+UID:akgqnSDz-AH0W5olQX88w
 SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
-DTSTART:20231122T150000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
-	t?list=PLxSscENEp7JhASExBFWxdzJs4ZEruLKun\nAni-One中文官方動畫頻道：https://www.you
-	tube.com/playlist?list=PLC18xlbCdwtQQP6q5h7iVtIKKlk4CWwLk
-URL:https://bangumi.tv/subject/407332
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:q_cr02Vha0xmD4v1-9LJ_
-SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231129T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
@@ -101,9 +77,9 @@ URL:https://bangumi.tv/subject/407332
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-_ublBRniHmcyxyiN9_PY
+UID:xEdIE1QZjkPNi99aKDVqn
 SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231206T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
@@ -113,9 +89,9 @@ URL:https://bangumi.tv/subject/407332
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:m49pdcQOxXSDGeT6iAjRL
+UID:oNnhWLegAXfkk4fiBFTa6
 SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231213T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
@@ -125,9 +101,9 @@ URL:https://bangumi.tv/subject/407332
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:sf8VaTJ30sUtZUn9-sJHZ
+UID:Uq48BjHFWVJKxbgumYOjZ
 SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231220T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
@@ -137,9 +113,9 @@ URL:https://bangumi.tv/subject/407332
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rBGg8Hh1uWCuiVGu7XgIq
+UID:SQNScbLB5MQ7B0NoL5b9A
 SUMMARY:本季新番：《赛马娘 Pretty Derby 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231227T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407332\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=124277\nAni-One Asia：https://www.youtube.com/playlis
@@ -149,19 +125,9 @@ URL:https://bangumi.tv/subject/407332
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bzZOc-HmxnERbR2FH19VH
+UID:YFoiNJWN-980IQaw1C4Ws
 SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
-DTSTART:20231125T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=129505
-URL:https://bangumi.tv/subject/414214
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:E80ZX28eU-bUT6AlQURy0
-SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231202T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129505
@@ -169,9 +135,9 @@ URL:https://bangumi.tv/subject/414214
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:j0jq0kUeBjLKzvEwvJKjQ
+UID:wynp12RnFww61MnCg9g8Y
 SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231209T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129505
@@ -179,9 +145,9 @@ URL:https://bangumi.tv/subject/414214
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bZq8DSkxX17imA47E7uHe
+UID:MfrVnxgNcbx56U50ok7ny
 SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231216T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129505
@@ -189,9 +155,9 @@ URL:https://bangumi.tv/subject/414214
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PQ0i6y4KTI9i1lq_ARAX8
+UID:Y4F5O6SEWKwSZgw7oErKs
 SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231223T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129505
@@ -199,9 +165,9 @@ URL:https://bangumi.tv/subject/414214
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bslV9UJ_C13ljOHwcw8m5
+UID:dk0LlekH1eBbAH3QXFIID
 SUMMARY:本季新番：《家里蹲吸血姬的苦闷》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231230T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/414214\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129505
@@ -209,21 +175,9 @@ URL:https://bangumi.tv/subject/414214
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:RkVwK1WMj07VwMQKLH8GB
+UID:3SWuThp62INu_pkOIsII-
 SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
-DTSTART:20231122T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
-	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=130538\nAni-One中文官方動畫頻道：https://www.youtube.com/playlist?list=PL
-	C18xlbCdwtQGlyMs9SVOYp2lP-myamDL
-URL:https://bangumi.tv/subject/419846
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:RAWSSXctgpBYE-4g6GqX9
-SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231129T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
@@ -233,9 +187,9 @@ URL:https://bangumi.tv/subject/419846
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2Zt2WnbS8DT3HNyW9_9u_
+UID:RzTuYC3zAgQy-2JiYEpOU
 SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231206T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
@@ -245,9 +199,9 @@ URL:https://bangumi.tv/subject/419846
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:kIHctSU98yBln2y58PZxv
+UID:P5B9WXo0ZT0-SiN8i1cQP
 SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231213T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
@@ -257,9 +211,9 @@ URL:https://bangumi.tv/subject/419846
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1rmDMBwPohS6GkBDZGzyg
+UID:R4npPTGrgnc_XpRJ1sGpc
 SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231220T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
@@ -269,9 +223,9 @@ URL:https://bangumi.tv/subject/419846
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:dbxa7yM0X9Nk92TWQocvN
+UID:IKsg5uAI8tySUHgMJ_uSE
 SUMMARY:本季新番：《想要成为影之实力者！ 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231227T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/419846\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21093797/\n動畫瘋：https://acg.gamer.com.tw/acgDet
@@ -281,20 +235,9 @@ URL:https://bangumi.tv/subject/419846
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:eVkANb_KwsCXeTIyXPtxl
+UID:yqT0UtcuvAHZP0COOotZd
 SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
-DTSTART:20231124T130000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
-	1141/
-URL:https://bangumi.tv/subject/326867
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:NTMJFjXA9fukev5SI28ma
-SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231201T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
@@ -303,9 +246,9 @@ URL:https://bangumi.tv/subject/326867
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:sWcstkDr_o1LfYLpxSTJ7
+UID:PFoWgsLA5Ptf59Kp7D6Mv
 SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231208T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
@@ -314,9 +257,9 @@ URL:https://bangumi.tv/subject/326867
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:JWIRbrGTNIlGGrLPF-SpT
+UID:_yOc7Sos-JtUZ-e57xmHZ
 SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231215T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
@@ -325,9 +268,9 @@ URL:https://bangumi.tv/subject/326867
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:JpESGeEjAj58hvWxdzIkv
+UID:mRfdfNebbhFbIdsMqsZKK
 SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231222T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
@@ -336,9 +279,9 @@ URL:https://bangumi.tv/subject/326867
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7OiXt85uNuqdwXrlkQk85
+UID:qlKldY_ZeCn4yfeVXx-0G
 SUMMARY:本季新番：《哥布林殺手 II》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231229T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/326867\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=115682\nViu：https://www.viu.com/ott/hk/zh-hk/vod/225
@@ -347,19 +290,9 @@ URL:https://bangumi.tv/subject/326867
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ae4xiix-9c8JM5ltI7Kqs
+UID:wl32QLS_kWAeUj7W3ctVj
 SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
-DTSTART:20231125T153000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=121004
-URL:https://bangumi.tv/subject/362005
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:AaGDTr_md3XeqQLoyq-tM
-SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231202T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=121004
@@ -367,9 +300,9 @@ URL:https://bangumi.tv/subject/362005
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BFFMUwQ7lt9HsdH7vy3mB
+UID:gOOb0YZDSdyOn3kBRmSkA
 SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231209T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=121004
@@ -377,9 +310,9 @@ URL:https://bangumi.tv/subject/362005
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mxkuMXc04UcBoVVXbMq9r
+UID:mB-oAcpA7L4N6MjgevIYV
 SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231216T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=121004
@@ -387,9 +320,9 @@ URL:https://bangumi.tv/subject/362005
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Bs_OMM2xmV-3OsOnEyc9G
+UID:6s7DX_XWh-kqLmlUURCTF
 SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231223T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=121004
@@ -397,9 +330,9 @@ URL:https://bangumi.tv/subject/362005
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:s6C8VsKld74zAwPSzssKv
+UID:Zogq_fQ4YkVv0HnuPe93n
 SUMMARY:本季新番：《猪肝记得煮熟再吃》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231230T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/362005\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=121004
@@ -407,20 +340,9 @@ URL:https://bangumi.tv/subject/362005
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_uaPFoH5l4iZDNCjbFqgP
+UID:xZxaDQekd2xnVrSlr3c8l
 SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
-DTSTART:20231126T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
-	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
-	30911
-URL:https://bangumi.tv/subject/424379
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:tyVP4XES-R5xRVZLrbc35
-SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231203T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
@@ -429,9 +351,9 @@ URL:https://bangumi.tv/subject/424379
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:WPOty7Y5EB9MmhDOCTc7k
+UID:q3wGx6slNhHKRTj4iLsKH
 SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231210T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
@@ -440,9 +362,9 @@ URL:https://bangumi.tv/subject/424379
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5kgZwKRQ8-KGhYs9cPDyi
+UID:-2RsppO3dIJ-9IenqGGbe
 SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231217T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
@@ -451,9 +373,9 @@ URL:https://bangumi.tv/subject/424379
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7Jk-_SQM7KzUVJMrg2mqh
+UID:NqsHJ1wtq2cW3XUKmlBxD
 SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231224T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
@@ -462,9 +384,9 @@ URL:https://bangumi.tv/subject/424379
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QVv-5ljtYNcdllTyPmr-X
+UID:Rz5nu1XECG5KhUcD3kKoh
 SUMMARY:本季新番：《超超超超喜欢你的100个女孩子》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231231T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424379\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2251377/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1
@@ -473,19 +395,9 @@ URL:https://bangumi.tv/subject/424379
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LIAqaMokqyCJasBoKwD_o
+UID:GKqRHToV6ycoHO_IOjM9v
 SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
-DTSTART:20231122T153000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=129460
-URL:https://bangumi.tv/subject/413741
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:tIXfJzQlssujW6uVYJogM
-SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231129T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129460
@@ -493,9 +405,9 @@ URL:https://bangumi.tv/subject/413741
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:h9RR2R440BGOhBqyox3Zo
+UID:GqUJ8JkL9LJZa0ZrE0YWO
 SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231206T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129460
@@ -503,9 +415,9 @@ URL:https://bangumi.tv/subject/413741
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VR1kZ2hmQgLosB9_B54fy
+UID:jJTP0xkjWWgok6ubqEDmA
 SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231213T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129460
@@ -513,9 +425,9 @@ URL:https://bangumi.tv/subject/413741
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SiIeZxb5q2MSIHKICeCwA
+UID:0uQJnxRf6hmDXenSJFgo4
 SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231220T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129460
@@ -523,9 +435,9 @@ URL:https://bangumi.tv/subject/413741
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:q1JFCBGM8J0_6oY0dt-XU
+UID:MvEi4bz7L4n8SdfTIoMFE
 SUMMARY:本季新番：《16bit的感动 ANOTHER LAYER》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231227T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/413741\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=129460
@@ -533,22 +445,9 @@ URL:https://bangumi.tv/subject/413741
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DAKss9Bh7ebHdlKcQyDmx
+UID:y4X4-7JwzHKUuNhRaFGeS
 SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
-DTSTART:20231124T120000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
-	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
-	.com/playlist?list=PLC18xlbCdwtSoMtcbwQJQijWBKQTKhuaB\nmyTV SUPER：https://
-	www.mytvsuper.com/tc/programme/therisingoftheshieldheros3_139656/\n動畫瘋：htt
-	ps://acg.gamer.com.tw/acgDetail.php?s=107525
-URL:https://bangumi.tv/subject/289907
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:v3fIxJEEiXCu3lVvUYeYb
-SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231201T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
@@ -559,9 +458,9 @@ URL:https://bangumi.tv/subject/289907
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jmN1Zmpjqg0H0QT_n9yZv
+UID:vsMG0rbqQTFsYdGJ1zTdI
 SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231208T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
@@ -572,9 +471,9 @@ URL:https://bangumi.tv/subject/289907
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XB8vY-TRT0-Ax7rpjZT7H
+UID:a3V2ShX8RTLMrzFRuh3Yr
 SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231215T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
@@ -585,9 +484,9 @@ URL:https://bangumi.tv/subject/289907
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QCvQelJntIT2Le-mHmyFT
+UID:Z5PB7N2rcktwrrzhKAwW-
 SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231222T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
@@ -598,9 +497,9 @@ URL:https://bangumi.tv/subject/289907
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Rs_P2U93MsPS6NaPyA2P8
+UID:pglrmSP26LN16M08X9AzT
 SUMMARY:本季新番：《盾之勇者成名录 第三季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231229T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/289907\n哔哩哔哩（港澳台）：https://www.b
 	ilibili.com/bangumi/media/md21095909/\nAni-One中文官方動畫頻道：https://www.youtube
@@ -611,19 +510,9 @@ URL:https://bangumi.tv/subject/289907
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iFfHji5ZJEBwxRcIfr-kh
+UID:q5ROs9EkUGVaPXbtxvwmM
 SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
-DTSTART:20231120T163000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=120243
-URL:https://bangumi.tv/subject/353819
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:TodCmtEFwFMOyl1-Yz70N
-SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231127T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=120243
@@ -631,9 +520,9 @@ URL:https://bangumi.tv/subject/353819
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SFYOca6OOJNaCFWw56Lyk
+UID:Ebmay0Q-f2gAurO6_J69y
 SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231204T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=120243
@@ -641,9 +530,9 @@ URL:https://bangumi.tv/subject/353819
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:hdLSeC6VrCqscWT0n7ATy
+UID:DVkpvYQzfZqyF5QLE9qBU
 SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231211T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=120243
@@ -651,9 +540,9 @@ URL:https://bangumi.tv/subject/353819
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iNcqyt4FywUwygYPp1Siq
+UID:EHfSxvC-cDEzhgvXUFDK5
 SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231218T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=120243
@@ -661,9 +550,9 @@ URL:https://bangumi.tv/subject/353819
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:eJbNsKaG3DAHKFzmrv00X
+UID:B5_2RiMpQXX_vnoOB7FxD
 SUMMARY:本季新番：《圣剑学院的魔剑使》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231225T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/353819\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=120243
@@ -671,20 +560,9 @@ URL:https://bangumi.tv/subject/353819
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:RYIbcQLt1j-0fTU3WTeo9
+UID:cVEnH0vxspRkklUTZA4j7
 SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
-DTSTART:20231124T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
-	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
-	gamer.com.tw/acgDetail.php?s=129306
-URL:https://bangumi.tv/subject/400595
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:dDuOdj1Tcz_RkmZamCNJM
-SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231201T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
@@ -693,9 +571,9 @@ URL:https://bangumi.tv/subject/400595
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1FLt9ELCSGxuFHu-ZIYIi
+UID:U5VR6KDq8P8c1PZxB6_UP
 SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231208T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
@@ -704,9 +582,9 @@ URL:https://bangumi.tv/subject/400595
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cY3GdtS8Y8ui_sShtlyUU
+UID:_D9JEUmwTQfo2NEVM7NMz
 SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231215T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
@@ -715,9 +593,9 @@ URL:https://bangumi.tv/subject/400595
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a2jtbVk2aKGmUR_zLDxcc
+UID:XJ5KN7ageMfvQCSooBv2c
 SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231222T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
@@ -726,9 +604,9 @@ URL:https://bangumi.tv/subject/400595
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:G4ff4NG4M02nAjCE8vWMg
+UID:umZegYJBaWFMsnIU_sxQk
 SUMMARY:本季新番：《经验丰富的你和经验为零的我交往的故事》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231229T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/400595\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7UchsVLgWHvTqik35BahH-8KD\n動畫瘋：https://acg.
@@ -737,20 +615,9 @@ URL:https://bangumi.tv/subject/400595
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:tCZRm_ILjelZ797E6GY4c
+UID:UKCq4Mb5V6GyNrAOYYnR0
 SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
-DTSTART:20231125T163000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
-	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
-	gamer.com.tw/acgDetail.php?s=133987
-URL:https://bangumi.tv/subject/444634
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:eI2s2GA7dAf_CAKrpp5fQ
-SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231202T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
@@ -759,9 +626,9 @@ URL:https://bangumi.tv/subject/444634
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:zX_sofM1sXVgri4SC-As3
+UID:vQuqWGWyh7vkTvPZ6dCNH
 SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231209T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
@@ -770,9 +637,9 @@ URL:https://bangumi.tv/subject/444634
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uXmxJln2_hIs80iZMlIhR
+UID:oarFjvEckJJBu5JkzGaDf
 SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231216T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
@@ -781,9 +648,9 @@ URL:https://bangumi.tv/subject/444634
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9_SEBjwEXojuDhSGLhVqN
+UID:5mJB-kC6FyOEHy0aNiCyF
 SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231223T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
@@ -792,9 +659,9 @@ URL:https://bangumi.tv/subject/444634
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-AGSWon0Gm_FQHEhevW1P
+UID:dcCC08hfmeu8MGFSF4_U6
 SUMMARY:本季新番：《我们的雨色协议》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231230T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/444634\n木棉花 HK：https://www.yout
 	ube.com/playlist?list=PLuxqoToY7Ucgbx4DJKMfrJmC2h0gU76Hy\n動畫瘋：https://acg.
@@ -803,20 +670,9 @@ URL:https://bangumi.tv/subject/444634
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:51U6GPmFJaoMV-83RxNkF
+UID:la-RiV2pTv_xl6jqktUPk
 SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
-DTSTART:20231123T172300Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
-	=PLuxqoToY7Ucgc0-9Xq-GJxJP5drIaGdrf
-URL:https://bangumi.tv/subject/398949
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:thwjn6Mq95iwox4cRD7KM
-SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231130T172300Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
@@ -825,9 +681,9 @@ URL:https://bangumi.tv/subject/398949
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:N6enUsztldvmTjDj3uGJ-
+UID:JZJt2qex3VVmwnKBuKhvt
 SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231207T172300Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
@@ -836,9 +692,9 @@ URL:https://bangumi.tv/subject/398949
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:m_N1HvsAP9jKoQd-O9W-d
+UID:0214WOIUTi1J5yTG8UPRi
 SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231214T172300Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
@@ -847,9 +703,9 @@ URL:https://bangumi.tv/subject/398949
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bdY7E1-Vne-kQBZnJH_EL
+UID:5Zz6O9qW4RIDmF-5naZaX
 SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231221T172300Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
@@ -858,9 +714,9 @@ URL:https://bangumi.tv/subject/398949
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mO7ep4eIDAEMawKmK-obK
+UID:eZYWD2mRxr-aMnV4c4RvV
 SUMMARY:本季新番：《女友成双 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231228T172300Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/398949\n動畫瘋：https://acg.gamer.c
 	om.tw/acgDetail.php?s=127294\n木棉花 HK：https://www.youtube.com/playlist?list
@@ -869,22 +725,9 @@ URL:https://bangumi.tv/subject/398949
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7Y6JAfvcXAtnsFIwyGfpe
+UID:KCaHKIY3WpMPU8kH9ADtn
 SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
-DTSTART:20231125T140000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
-	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
-	/2251140/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=129280\nmyTV SUPER
-	：https://www.mytvsuper.com/tc/programme/spyxfamilyseason2_139633/\nNetflix
-	：https://www.netflix.com/title/81511410
-URL:https://bangumi.tv/subject/411427
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ou1D3eN_p5WEGH5Eh6bwQ
-SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231202T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
@@ -895,9 +738,9 @@ URL:https://bangumi.tv/subject/411427
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Z5hLlP7GXLiu5gV57AEvf
+UID:v4S3uQo7VzM3prAm1KVBa
 SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231209T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
@@ -908,9 +751,9 @@ URL:https://bangumi.tv/subject/411427
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VQtipeSPCA-5FR2p2T-CO
+UID:9DAnF5jNFKMM1P0ULv1PS
 SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231216T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
@@ -921,9 +764,9 @@ URL:https://bangumi.tv/subject/411427
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:EPtklUHXgf2WASiSolmYO
+UID:CqKM8lCaytw99Exi9Yw6M
 SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231223T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
@@ -934,9 +777,9 @@ URL:https://bangumi.tv/subject/411427
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mzOxOUdj9SnIdSFKc5jyT
+UID:JJe7hq6iCHeK9B4s2_Y7V
 SUMMARY:本季新番：《间谍过家家 第二季》
-DTSTAMP:20231120T101500Z
+DTSTAMP:20231127T101400Z
 DTSTART:20231230T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411427\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md21086686/\nViu：https://www.viu.com/ott/hk/zh-hk/vod
