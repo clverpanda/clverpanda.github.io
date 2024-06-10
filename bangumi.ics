@@ -5,22 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:85p_CaDlDU7WyVe-FWCCi
+UID:N2--FkE2xDSCHQwEQSONG
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
-DTSTART:20240613T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
-	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
-	6083\nNetflix：https://www.netflix.com/title/81564899\nABEMA：https://abema.
-	tv/video/title/25-253\n哔哩哔哩：https://www.bilibili.com/bangumi/media/md21174
-	614/
-URL:https://bangumi.tv/subject/395378
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:98LTwh9vpKn-PSk37EpSq
-SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240620T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -31,9 +18,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a12eOpNZe2-GLjkniP8MF
+UID:aNl5LLhpp4ufcj8XpnrW_
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240627T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -44,9 +31,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:YcwcynRizXKwoNY9_p63e
+UID:RTyAYikNyUq3JwxKtZDr-
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240704T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -57,9 +44,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8MV_9H32lgVWiZkPQUD0c
+UID:R7Yuy95ee1wslhKGkNWg4
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240711T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -70,9 +57,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:nRgMbyYoq_qtj1mRnUUKw
+UID:6RkbGfGlLNdqyz-xQs7Sf
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240718T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -83,9 +70,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_BXzE-sgQz3U6eNkUECvT
+UID:O-_DqC1hX3M36x-_OZ5Rp
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240725T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -96,9 +83,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6a6pvt1zJQKvSye5vsMAg
+UID:ntCNUQvLn6HuoqJsCJ9Fv
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240801T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -109,9 +96,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ElwqXect_VMqY1brWoCIA
+UID:JAELwA0s73GUCHnK6WaGl
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240808T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -122,9 +109,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vOJs1WD2dvEVjbzrS7OEF
+UID:S7_RI2KpUut53EwFeko2G
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240815T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -135,9 +122,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ay-pu8wsiBnsk8WxMPeZ1
+UID:YEZnFIBhTFlbwhUNrf9if
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240822T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -148,9 +135,9 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uFXqFjX37n6maHd8Q3HlQ
+UID:SvSpYImn4qoerUEHA7LzJ
 SUMMARY:上季旧番：《迷宫饭》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240829T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
 	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
@@ -161,21 +148,22 @@ URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qHI6kI_YGVvDZ93z6IM2L
-SUMMARY:本季新番：《单间、光照尚好、附带天使。》
-DTSTAMP:20240603T101826Z
-DTSTART:20240608T130000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/457945\nABEMA：https://abema.tv/
-	video/title/564-10\nNiconico：https://ch.nicovideo.jp/tenshitsuki\n動畫瘋：http
-	s://acg.gamer.com.tw/acgDetail.php?s=135879\nU-NEXT：https://video.unext.jp
-	/title/SID0100048
-URL:https://bangumi.tv/subject/457945
+UID:nwEZnE5nCCPssCFlTOWnT
+SUMMARY:上季旧番：《迷宫饭》
+DTSTAMP:20240610T101631Z
+DTSTART:20240905T133000Z
+DESCRIPTION:番组计划：https://bangumi.tv/subject/395378\nNiconico：https://ch.nic
+	ovideo.jp/delicious-in-dungeon\nU-NEXT：https://video.unext.jp/title/SID009
+	6083\nNetflix：https://www.netflix.com/title/81564899\nABEMA：https://abema.
+	tv/video/title/25-253\n哔哩哔哩：https://www.bilibili.com/bangumi/media/md21174
+	614/
+URL:https://bangumi.tv/subject/395378
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jvg4Ic3qCyxMIYSfyomfz
+UID:Nrps4N83vTOrg7Lmhv-Tr
 SUMMARY:本季新番：《单间、光照尚好、附带天使。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240615T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/457945\nABEMA：https://abema.tv/
 	video/title/564-10\nNiconico：https://ch.nicovideo.jp/tenshitsuki\n動畫瘋：http
@@ -185,9 +173,9 @@ URL:https://bangumi.tv/subject/457945
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:u_eE0Q_19Ck7XoeyLx6qE
+UID:qj31d13ZFYnaPWjRdbtz3
 SUMMARY:本季新番：《单间、光照尚好、附带天使。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240622T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/457945\nABEMA：https://abema.tv/
 	video/title/564-10\nNiconico：https://ch.nicovideo.jp/tenshitsuki\n動畫瘋：http
@@ -197,9 +185,9 @@ URL:https://bangumi.tv/subject/457945
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3swmY88ctZvFP-yCvoIsr
+UID:ix_hx7q24kf1owYtyU0ls
 SUMMARY:本季新番：《单间、光照尚好、附带天使。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240629T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/457945\nABEMA：https://abema.tv/
 	video/title/564-10\nNiconico：https://ch.nicovideo.jp/tenshitsuki\n動畫瘋：http
@@ -209,22 +197,9 @@ URL:https://bangumi.tv/subject/457945
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Qpxw8LEJk5Hs6uoiLW6ax
+UID:QBbFKNxfm8_x-LlVHfHgX
 SUMMARY:本季新番：《吹响！悠风号 第三季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240609T080000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/283643\nNiconico：https://ch.nic
-	ovideo.jp/anime-eupho\nABEMA：https://abema.tv/video/title/106-1zxpewrca-r\
-	nU-NEXT：https://video.unext.jp/title/SID0100045\n哔哩哔哩（港澳台）：https://www.bil
-	ibili.com/bangumi/media/md21243093/\n哔哩哔哩：https://www.bilibili.com/bangumi
-	/media/md21231728/
-URL:https://bangumi.tv/subject/283643
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:1RgpKktSY-tLPZK3pIDta
-SUMMARY:本季新番：《吹响！悠风号 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240616T080000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/283643\nNiconico：https://ch.nic
 	ovideo.jp/anime-eupho\nABEMA：https://abema.tv/video/title/106-1zxpewrca-r\
@@ -235,9 +210,9 @@ URL:https://bangumi.tv/subject/283643
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:RCAbSRz5DOnf4VZ1AugKF
+UID:fozTP3Tfv6tJtgkeYvKGB
 SUMMARY:本季新番：《吹响！悠风号 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240623T080000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/283643\nNiconico：https://ch.nic
 	ovideo.jp/anime-eupho\nABEMA：https://abema.tv/video/title/106-1zxpewrca-r\
@@ -248,9 +223,9 @@ URL:https://bangumi.tv/subject/283643
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xWjpjMZe1ox0WWFgywC_p
+UID:HqjuZIFpi5W5uy35yWx0q
 SUMMARY:本季新番：《吹响！悠风号 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240630T080000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/283643\nNiconico：https://ch.nic
 	ovideo.jp/anime-eupho\nABEMA：https://abema.tv/video/title/106-1zxpewrca-r\
@@ -261,21 +236,9 @@ URL:https://bangumi.tv/subject/283643
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:GGQ7y_n5HnAlYkigv3eZb
+UID:VHkCRoifaFRvMY7P1nQya
 SUMMARY:本季新番：《夜晚的水母不会游泳》
-DTSTAMP:20240603T101826Z
-DTSTART:20240608T160000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/425909\nNiconico：https://ch.nic
-	ovideo.jp/yorukura\nU-NEXT：https://video.unext.jp/title/SID0100090\n木棉花 HK
-	：https://www.youtube.com/playlist?list=PLuxqoToY7Uci_tGLxkhQyUliJltT4OfZ6\
-	n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=131196
-URL:https://bangumi.tv/subject/425909
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:_-fxZTgvViHUrdIrOW8-0
-SUMMARY:本季新番：《夜晚的水母不会游泳》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240615T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/425909\nNiconico：https://ch.nic
 	ovideo.jp/yorukura\nU-NEXT：https://video.unext.jp/title/SID0100090\n木棉花 HK
@@ -285,9 +248,9 @@ URL:https://bangumi.tv/subject/425909
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6ju9j_dcBfmLjf4sW97oj
+UID:37RNOwtHhEGudSu27fmeA
 SUMMARY:本季新番：《夜晚的水母不会游泳》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240622T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/425909\nNiconico：https://ch.nic
 	ovideo.jp/yorukura\nU-NEXT：https://video.unext.jp/title/SID0100090\n木棉花 HK
@@ -297,9 +260,9 @@ URL:https://bangumi.tv/subject/425909
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8f-6_Z71-ZndPrwBSIOo2
+UID:YZyriTBmj98pMjqiC88Uk
 SUMMARY:本季新番：《夜晚的水母不会游泳》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240629T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/425909\nNiconico：https://ch.nic
 	ovideo.jp/yorukura\nU-NEXT：https://video.unext.jp/title/SID0100090\n木棉花 HK
@@ -309,23 +272,9 @@ URL:https://bangumi.tv/subject/425909
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gi5_dmkFClaTxI0tGDvpS
+UID:aCUyDUClKU7GhCY-3aaY4
 SUMMARY:本季新番：《转生贵族靠着鉴定技能一飞冲天》
-DTSTAMP:20240603T101826Z
-DTSTART:20240609T143000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/434144\nNiconico：https://ch.nic
-	ovideo.jp/kanteiskill\nU-NEXT：https://video.unext.jp/title/SID0100082\nABE
-	MA：https://abema.tv/video/title/420-65\nAni-One Asia：https://www.youtube.c
-	om/playlist?list=PLxSscENEp7Ji3p2oPXSaDlUtzRI0be2_d\nAni-One中文官方動畫頻道：https
-	://www.youtube.com/playlist?list=PLC18xlbCdwtTpPAmFL_w5IByhmBv8C_9Y\n動畫瘋：h
-	ttps://acg.gamer.com.tw/acgDetail.php?s=132297
-URL:https://bangumi.tv/subject/434144
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:DSWF2AvG-ywabNUUCHHmW
-SUMMARY:本季新番：《转生贵族靠着鉴定技能一飞冲天》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240616T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/434144\nNiconico：https://ch.nic
 	ovideo.jp/kanteiskill\nU-NEXT：https://video.unext.jp/title/SID0100082\nABE
@@ -337,9 +286,9 @@ URL:https://bangumi.tv/subject/434144
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:WtlQ4P84m_QbQY9g8gFIW
+UID:fe94lMT2DGVV14-3Fvd5c
 SUMMARY:本季新番：《转生贵族靠着鉴定技能一飞冲天》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240623T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/434144\nNiconico：https://ch.nic
 	ovideo.jp/kanteiskill\nU-NEXT：https://video.unext.jp/title/SID0100082\nABE
@@ -351,9 +300,9 @@ URL:https://bangumi.tv/subject/434144
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2dMwqk2xmass0W9n5Nmce
+UID:8PjUtRboqGT7r0rp_dtII
 SUMMARY:本季新番：《转生贵族靠着鉴定技能一飞冲天》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240630T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/434144\nNiconico：https://ch.nic
 	ovideo.jp/kanteiskill\nU-NEXT：https://video.unext.jp/title/SID0100082\nABE
@@ -365,23 +314,9 @@ URL:https://bangumi.tv/subject/434144
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uRNLyCIZoBj7y66f1GIGO
+UID:Oq1xO3QipP5CB3NgHD64k
 SUMMARY:本季新番：《摇曳露营△ 第三季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240606T140000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/405785\nU-NEXT：https://video.un
-	ext.jp/title/SID0100063\nNiconico：https://ch.nicovideo.jp/yurucamp_third\n
-	ABEMA：https://abema.tv/video/title/247-5\n動畫瘋：https://acg.gamer.com.tw/acg
-	Detail.php?s=128167\nAni-One Asia：https://www.youtube.com/playlist?list=PL
-	xSscENEp7JgpM3BhpeDhDvAXuIUQjOj6\nAni-One中文官方動畫頻道：https://www.youtube.com/
-	playlist?list=PLC18xlbCdwtS9XXLNeCK883vWIQDZIsn6
-URL:https://bangumi.tv/subject/405785
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:3xW_gQih_QknCFLJN-c_J
-SUMMARY:本季新番：《摇曳露营△ 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240613T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/405785\nU-NEXT：https://video.un
 	ext.jp/title/SID0100063\nNiconico：https://ch.nicovideo.jp/yurucamp_third\n
@@ -393,9 +328,9 @@ URL:https://bangumi.tv/subject/405785
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:wCLtv2ThH4CT9IIUMBk3W
+UID:rjR6zko1XfxmA9BG0jzDE
 SUMMARY:本季新番：《摇曳露营△ 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240620T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/405785\nU-NEXT：https://video.un
 	ext.jp/title/SID0100063\nNiconico：https://ch.nicovideo.jp/yurucamp_third\n
@@ -407,9 +342,9 @@ URL:https://bangumi.tv/subject/405785
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iYFwEE5nwjM-oQEMa5PwX
+UID:n78VhNow84sgToY8o9nNE
 SUMMARY:本季新番：《摇曳露营△ 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240627T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/405785\nU-NEXT：https://video.un
 	ext.jp/title/SID0100063\nNiconico：https://ch.nicovideo.jp/yurucamp_third\n
@@ -421,19 +356,9 @@ URL:https://bangumi.tv/subject/405785
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:INQXol7QomTKSDiaqSihp
+UID:gFCJVfxWtNSa7fwlXGnbN
 SUMMARY:本季新番：《GIRLS BAND CRY》
-DTSTAMP:20240603T101826Z
-DTSTART:20240607T153000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/431767\nU-NEXT：https://video.un
-	ext.jp/title/SID0100041\nABEMA：https://abema.tv/video/title/5-44
-URL:https://bangumi.tv/subject/431767
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:Jf3e2n-lWaygJ-oWl3kuR
-SUMMARY:本季新番：《GIRLS BAND CRY》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240614T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/431767\nU-NEXT：https://video.un
 	ext.jp/title/SID0100041\nABEMA：https://abema.tv/video/title/5-44
@@ -441,9 +366,9 @@ URL:https://bangumi.tv/subject/431767
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BQKckLgrYCd-xpzgFWAHA
+UID:MgBJEb7Fw9gB1iENnvBHt
 SUMMARY:本季新番：《GIRLS BAND CRY》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240621T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/431767\nU-NEXT：https://video.un
 	ext.jp/title/SID0100041\nABEMA：https://abema.tv/video/title/5-44
@@ -451,9 +376,9 @@ URL:https://bangumi.tv/subject/431767
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Hqmp5o9atBv3mNqnT89ym
+UID:TTr9p_N3uQUpd18gfdj52
 SUMMARY:本季新番：《GIRLS BAND CRY》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240628T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/431767\nU-NEXT：https://video.un
 	ext.jp/title/SID0100041\nABEMA：https://abema.tv/video/title/5-44
@@ -461,23 +386,9 @@ URL:https://bangumi.tv/subject/431767
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jr_EV_p4rFG3cN3UNTFvm
+UID:Z2iyEIVePY6LLSdvFL2yQ
 SUMMARY:本季新番：《为美好的世界献上祝福！第三季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240605T140000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/342667\nNiconico：https://ch.nic
-	ovideo.jp/konosuba_3rd\nU-NEXT：https://video.unext.jp/title/SID0100051\nAB
-	EMA：https://abema.tv/video/title/25-40xx2hk3u5ai\nAni-One中文官方動畫頻道：https://
-	www.youtube.com/playlist?list=PLC18xlbCdwtSD95wSkYycIuRqLZUgwbyr\nAni-One 
-	Asia：https://www.youtube.com/playlist?list=PLxSscENEp7JhqZQW_-rc90fYAIV5dy
-	mcF\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=118719
-URL:https://bangumi.tv/subject/342667
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:BDWCnE_IApmzihsHoVtC_
-SUMMARY:本季新番：《为美好的世界献上祝福！第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240612T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/342667\nNiconico：https://ch.nic
 	ovideo.jp/konosuba_3rd\nU-NEXT：https://video.unext.jp/title/SID0100051\nAB
@@ -489,9 +400,9 @@ URL:https://bangumi.tv/subject/342667
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:h5EPnUp0pjUDsUvNQIkOi
+UID:9Ii-GOQCbIv5i3oZ4jEyl
 SUMMARY:本季新番：《为美好的世界献上祝福！第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240619T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/342667\nNiconico：https://ch.nic
 	ovideo.jp/konosuba_3rd\nU-NEXT：https://video.unext.jp/title/SID0100051\nAB
@@ -503,9 +414,9 @@ URL:https://bangumi.tv/subject/342667
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0TJpIadA3w6Vw6Gn1phF3
+UID:n46jlimneqH0TMsDHT5Ef
 SUMMARY:本季新番：《为美好的世界献上祝福！第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240626T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/342667\nNiconico：https://ch.nic
 	ovideo.jp/konosuba_3rd\nU-NEXT：https://video.unext.jp/title/SID0100051\nAB
@@ -517,9 +428,9 @@ URL:https://bangumi.tv/subject/342667
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-dAm6vgzNS4WKhzyNbo0W
+UID:XeCTsqSS8mMtXOYCeb0zs
 SUMMARY:本季新番：《为美好的世界献上祝福！第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240703T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/342667\nNiconico：https://ch.nic
 	ovideo.jp/konosuba_3rd\nU-NEXT：https://video.unext.jp/title/SID0100051\nAB
@@ -531,24 +442,9 @@ URL:https://bangumi.tv/subject/342667
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1AgLVo-q0cveX-C29Gn3o
+UID:RTYwycJGiJJjp54Ee5LCm
 SUMMARY:本季新番：《怪兽8号》
-DTSTAMP:20240603T101826Z
-DTSTART:20240608T140000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/394623\nNiconico：https://ch.nic
-	ovideo.jp/kaiju-no8\nU-NEXT：https://video.unext.jp/title/SID0100076\nAni-O
-	ne中文官方動畫頻道：https://www.youtube.com/playlist?list=PLC18xlbCdwtQCkDYNQJpV5LL
-	elEpkPkrF\nAni-One Asia：https://www.youtube.com/playlist?list=PLxSscENEp7J
-	juZzkRdh_qKWYuEk26B1Ib\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2341874/\
-	nNetflix：https://www.netflix.com/title/81759290\n動畫瘋：https://acg.gamer.com
-	.tw/acgDetail.php?s=129302
-URL:https://bangumi.tv/subject/394623
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:EI_MZ_fUtb2DWoCS4uuR-
-SUMMARY:本季新番：《怪兽8号》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240615T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/394623\nNiconico：https://ch.nic
 	ovideo.jp/kaiju-no8\nU-NEXT：https://video.unext.jp/title/SID0100076\nAni-O
@@ -561,9 +457,9 @@ URL:https://bangumi.tv/subject/394623
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:x06HTN4ivd0CQW4lj38Vi
+UID:6WdQ5TmVCvG34R613khtX
 SUMMARY:本季新番：《怪兽8号》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240622T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/394623\nNiconico：https://ch.nic
 	ovideo.jp/kaiju-no8\nU-NEXT：https://video.unext.jp/title/SID0100076\nAni-O
@@ -576,9 +472,9 @@ URL:https://bangumi.tv/subject/394623
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VA1rTQP93mq5wT2v10Jm-
+UID:kd9EcRUoQf1Z4TFqID561
 SUMMARY:本季新番：《怪兽8号》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240629T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/394623\nNiconico：https://ch.nic
 	ovideo.jp/kaiju-no8\nU-NEXT：https://video.unext.jp/title/SID0100076\nAni-O
@@ -591,9 +487,9 @@ URL:https://bangumi.tv/subject/394623
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PomSNPV5i0xZfxlyinbgi
+UID:08P3CwT_jGQ8imnrC3X6T
 SUMMARY:本季新番：《怪兽8号》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240706T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/394623\nNiconico：https://ch.nic
 	ovideo.jp/kaiju-no8\nU-NEXT：https://video.unext.jp/title/SID0100076\nAni-O
@@ -606,19 +502,9 @@ URL:https://bangumi.tv/subject/394623
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rNkP_cBMuKYhSAZ64WeMQ
+UID:CPYXUpzPyVIEhn22-dJlt
 SUMMARY:本季新番：《魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分》
-DTSTAMP:20240603T101826Z
-DTSTART:20240607T130000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/455981\nViu：https://www.viu.com
-	/ott/hk/zh-hk/vod/2341871/
-URL:https://bangumi.tv/subject/455981
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:0bEcIigtPKK8UEV5KgaLW
-SUMMARY:本季新番：《魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240614T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/455981\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2341871/
@@ -626,9 +512,9 @@ URL:https://bangumi.tv/subject/455981
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:wghIhhm6dns0tGInvOs7d
+UID:qfZF64uyBMThatnEKNpnP
 SUMMARY:本季新番：《魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240621T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/455981\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2341871/
@@ -636,9 +522,9 @@ URL:https://bangumi.tv/subject/455981
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:tLrdkeHpY5MkghjqbJiDs
+UID:1_HumAolTeedpHJ9p2me6
 SUMMARY:本季新番：《魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240628T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/455981\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2341871/
@@ -646,9 +532,9 @@ URL:https://bangumi.tv/subject/455981
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mviua8JHshmaZB_0TnZ7F
+UID:4qukiQDhTYsp3x_DotHS2
 SUMMARY:本季新番：《魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240705T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/455981\nViu：https://www.viu.com
 	/ott/hk/zh-hk/vod/2341871/
@@ -656,20 +542,9 @@ URL:https://bangumi.tv/subject/455981
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OhTP2ntOaVuyuHXkkWIhH
+UID:waQk-AIk-BviprRpjRARf
 SUMMARY:本季新番：《末班列车去哪里了？》
-DTSTAMP:20240603T101826Z
-DTSTART:20240603T120000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/404809\nNiconico：https://ch.nic
-	ovideo.jp/shumatsu-train\nU-NEXT：https://video.unext.jp/title/SID0100055\n
-	ABEMA：https://abema.tv/video/title/25-260
-URL:https://bangumi.tv/subject/404809
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:k1u426DOmo8_FZve8TPxM
-SUMMARY:本季新番：《末班列车去哪里了？》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240610T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/404809\nNiconico：https://ch.nic
 	ovideo.jp/shumatsu-train\nU-NEXT：https://video.unext.jp/title/SID0100055\n
@@ -678,9 +553,9 @@ URL:https://bangumi.tv/subject/404809
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:T1YWWHoWH9RSCZnLJDW9r
+UID:CV0sG_KYgT1SFL36THufD
 SUMMARY:本季新番：《末班列车去哪里了？》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240617T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/404809\nNiconico：https://ch.nic
 	ovideo.jp/shumatsu-train\nU-NEXT：https://video.unext.jp/title/SID0100055\n
@@ -689,9 +564,9 @@ URL:https://bangumi.tv/subject/404809
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:J2gt7wBfSkjEBVPyObwk6
+UID:rBZuMbDZ5kvgrWv8unshn
 SUMMARY:本季新番：《末班列车去哪里了？》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240624T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/404809\nNiconico：https://ch.nic
 	ovideo.jp/shumatsu-train\nU-NEXT：https://video.unext.jp/title/SID0100055\n
@@ -700,22 +575,9 @@ URL:https://bangumi.tv/subject/404809
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:38iKMhvdFhB0kqv5U6Yq2
+UID:JjvF4CBFTKa92hJnZmyuc
 SUMMARY:本季新番：《神渴望着游戏。》
-DTSTAMP:20240603T101826Z
-DTSTART:20240603T123000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/365952\nNiconico：https://ch.nic
-	ovideo.jp/godsgame-anime\nU-NEXT：https://video.unext.jp/title/SID0100056\n
-	哔哩哔哩：https://www.bilibili.com/bangumi/media/md21230556/\n哔哩哔哩（港澳台）：https:/
-	/www.bilibili.com/bangumi/media/md21230693/\nABEMA：https://abema.tv/video/
-	title/25-263\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=122434
-URL:https://bangumi.tv/subject/365952
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:5Kjp7ChJpSjp9Gg87Yh4o
-SUMMARY:本季新番：《神渴望着游戏。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240610T123000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/365952\nNiconico：https://ch.nic
 	ovideo.jp/godsgame-anime\nU-NEXT：https://video.unext.jp/title/SID0100056\n
@@ -726,9 +588,9 @@ URL:https://bangumi.tv/subject/365952
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:kTC-pUkTtqQALcH0hI5Am
+UID:S1xjbSFqHfgDdovceO2RG
 SUMMARY:本季新番：《神渴望着游戏。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240617T123000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/365952\nNiconico：https://ch.nic
 	ovideo.jp/godsgame-anime\nU-NEXT：https://video.unext.jp/title/SID0100056\n
@@ -739,9 +601,9 @@ URL:https://bangumi.tv/subject/365952
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9z_ivYB-3FuDBM7Wl21UL
+UID:9YVpWXGASzsvpCZ1bphJS
 SUMMARY:本季新番：《神渴望着游戏。》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240624T123000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/365952\nNiconico：https://ch.nic
 	ovideo.jp/godsgame-anime\nU-NEXT：https://video.unext.jp/title/SID0100056\n
@@ -752,23 +614,9 @@ URL:https://bangumi.tv/subject/365952
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8jKvAc45sTdEeaGNpwPkd
+UID:yA0UOLhkguzloku1oB5xK
 SUMMARY:本季新番：《声优广播的台前幕后》
-DTSTAMP:20240603T101826Z
-DTSTART:20240605T120000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/411974\nNiconico：https://ch.nic
-	ovideo.jp/seiyuradio-anime\nU-NEXT：https://video.unext.jp/title/SID0100057
-	\n哔哩哔哩：https://www.bilibili.com/bangumi/media/md21231699/\n動畫瘋：https://acg
-	.gamer.com.tw/acgDetail.php?s=129330\nNow Player：https://nowplayer.now.com
-	/ondemand/detail?id=S202403210176768&type=series\nABEMA：https://abema.tv/v
-	ideo/title/25-264
-URL:https://bangumi.tv/subject/411974
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:C6MktwPIdHK5sf9om98-i
-SUMMARY:本季新番：《声优广播的台前幕后》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240612T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411974\nNiconico：https://ch.nic
 	ovideo.jp/seiyuradio-anime\nU-NEXT：https://video.unext.jp/title/SID0100057
@@ -780,9 +628,9 @@ URL:https://bangumi.tv/subject/411974
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5SlD1Al1_LqTxlI8hOdYa
+UID:pcpvcpG1neuPYiGjltQx_
 SUMMARY:本季新番：《声优广播的台前幕后》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240619T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411974\nNiconico：https://ch.nic
 	ovideo.jp/seiyuradio-anime\nU-NEXT：https://video.unext.jp/title/SID0100057
@@ -794,9 +642,9 @@ URL:https://bangumi.tv/subject/411974
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:FJM-1oTxu-8LE5479ienU
+UID:5A5Ob_e_1M7rfgGbiBLoL
 SUMMARY:本季新番：《声优广播的台前幕后》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240626T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411974\nNiconico：https://ch.nic
 	ovideo.jp/seiyuradio-anime\nU-NEXT：https://video.unext.jp/title/SID0100057
@@ -808,9 +656,9 @@ URL:https://bangumi.tv/subject/411974
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:NBFlAfbDwglixiDNQZUpa
+UID:ovfwWtbAelhxICENVkp9q
 SUMMARY:本季新番：《声优广播的台前幕后》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240703T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/411974\nNiconico：https://ch.nic
 	ovideo.jp/seiyuradio-anime\nU-NEXT：https://video.unext.jp/title/SID0100057
@@ -822,22 +670,9 @@ URL:https://bangumi.tv/subject/411974
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:MbN2d2kHzbqTRYVVRapNL
+UID:ms9MFsMirXiMCok1M7eqe
 SUMMARY:本季新番：《转生为第七王子，随心所欲的魔法学习之路》
-DTSTAMP:20240603T101826Z
-DTSTART:20240603T150000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/407133\nNiconico：https://ch.nic
-	ovideo.jp/dainanaoji\nU-NEXT：https://video.unext.jp/title/SID0100096\nABEM
-	A：https://abema.tv/video/title/420-66\nNetflix：https://www.netflix.com/tit
-	le/81769842\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=128484\n木棉花 HK：h
-	ttps://www.youtube.com/playlist?list=PLuxqoToY7UciR6VH9jjkVoXzb4P_YPYC-
-URL:https://bangumi.tv/subject/407133
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:Inf26lUZ5AFv1AHAqUJLk
-SUMMARY:本季新番：《转生为第七王子，随心所欲的魔法学习之路》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240610T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407133\nNiconico：https://ch.nic
 	ovideo.jp/dainanaoji\nU-NEXT：https://video.unext.jp/title/SID0100096\nABEM
@@ -848,9 +683,9 @@ URL:https://bangumi.tv/subject/407133
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cfUg5m55KPuUrzQ4-O9qO
+UID:-Qw4Adid0eycinKgTvgDF
 SUMMARY:本季新番：《转生为第七王子，随心所欲的魔法学习之路》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240617T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407133\nNiconico：https://ch.nic
 	ovideo.jp/dainanaoji\nU-NEXT：https://video.unext.jp/title/SID0100096\nABEM
@@ -861,9 +696,9 @@ URL:https://bangumi.tv/subject/407133
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7eTaMUmv8brvfbUQX1YjF
+UID:My9k30pQ2guOE4KXHz_bB
 SUMMARY:本季新番：《转生为第七王子，随心所欲的魔法学习之路》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240624T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407133\nNiconico：https://ch.nic
 	ovideo.jp/dainanaoji\nU-NEXT：https://video.unext.jp/title/SID0100096\nABEM
@@ -874,21 +709,9 @@ URL:https://bangumi.tv/subject/407133
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QaUjXPefDUFqBVT2n3LUG
+UID:aC-pvyFNWPcI9oF75bnpJ
 SUMMARY:本季新番：《约会大作战 第五季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240605T143000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/389466\nU-NEXT：https://video.un
-	ext.jp/title/SID0100053\nNiconico：https://ch.nicovideo.jp/date-a-live5\n木棉
-	花 HK：https://www.youtube.com/playlist?list=PLuxqoToY7Ucg2PDDHi6gEMVW74ZBpU
-	eAF\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=125370
-URL:https://bangumi.tv/subject/389466
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ZMdjtNumA_NxxrX3r3T0y
-SUMMARY:本季新番：《约会大作战 第五季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240612T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/389466\nU-NEXT：https://video.un
 	ext.jp/title/SID0100053\nNiconico：https://ch.nicovideo.jp/date-a-live5\n木棉
@@ -898,9 +721,9 @@ URL:https://bangumi.tv/subject/389466
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OFnvghg3g2eWhZab25Xzh
+UID:WyJGSjSAgsgkhPSbxuB_t
 SUMMARY:本季新番：《约会大作战 第五季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240619T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/389466\nU-NEXT：https://video.un
 	ext.jp/title/SID0100053\nNiconico：https://ch.nicovideo.jp/date-a-live5\n木棉
@@ -910,9 +733,9 @@ URL:https://bangumi.tv/subject/389466
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qtgTUUQ2HRvkekrqbHnMi
+UID:9xXIQ54RDLL0_6c4axRj1
 SUMMARY:本季新番：《约会大作战 第五季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240626T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/389466\nU-NEXT：https://video.un
 	ext.jp/title/SID0100053\nNiconico：https://ch.nicovideo.jp/date-a-live5\n木棉
@@ -922,9 +745,9 @@ URL:https://bangumi.tv/subject/389466
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XhlnyKchmNb1wPluNdTTs
+UID:fgBI9VqZTspkK0qdOBxk0
 SUMMARY:本季新番：《约会大作战 第五季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240703T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/389466\nU-NEXT：https://video.un
 	ext.jp/title/SID0100053\nNiconico：https://ch.nicovideo.jp/date-a-live5\n木棉
@@ -934,21 +757,9 @@ URL:https://bangumi.tv/subject/389466
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3_EX6wRI_Z-JxKPWoXhHv
+UID:3VKAFvxI4hYnJ6zFOpQRV
 SUMMARY:本季新番：《魔法科高校的劣等生 第三季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240607T143000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/364522\nNiconico：https://ch.nic
-	ovideo.jp/mahouka_3rd\nABEMA：https://abema.tv/video/title/25-2xrwzkrsieb\n
-	動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=134161\nU-NEXT：https://video.
-	unext.jp/title/SID0100058
-URL:https://bangumi.tv/subject/364522
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:i2WLq0s7uTvlGTviVds1p
-SUMMARY:本季新番：《魔法科高校的劣等生 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240614T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/364522\nNiconico：https://ch.nic
 	ovideo.jp/mahouka_3rd\nABEMA：https://abema.tv/video/title/25-2xrwzkrsieb\n
@@ -958,9 +769,9 @@ URL:https://bangumi.tv/subject/364522
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:FaKkUpsDBxLQL6KUU8TvI
+UID:Ep2Jj6zJdYROvXsV3_j0M
 SUMMARY:本季新番：《魔法科高校的劣等生 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240621T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/364522\nNiconico：https://ch.nic
 	ovideo.jp/mahouka_3rd\nABEMA：https://abema.tv/video/title/25-2xrwzkrsieb\n
@@ -970,9 +781,9 @@ URL:https://bangumi.tv/subject/364522
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f42Z77BF5-Yxth1RIIRbp
+UID:1oHz_rc6M8T4xQZeWdWRY
 SUMMARY:本季新番：《魔法科高校的劣等生 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240628T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/364522\nNiconico：https://ch.nic
 	ovideo.jp/mahouka_3rd\nABEMA：https://abema.tv/video/title/25-2xrwzkrsieb\n
@@ -982,23 +793,9 @@ URL:https://bangumi.tv/subject/364522
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:K5yHulBDv-lxZboabM6y1
+UID:Tk-kRd6W5HgBEpGppBkfN
 SUMMARY:本季新番：《蔚蓝档案 动画版》
-DTSTAMP:20240603T101826Z
-DTSTART:20240609T144500Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/416777\nU-NEXT：https://video.un
-	ext.jp/title/SID0100093\nABEMA：https://abema.tv/video/title/210-12\nNiconi
-	co：https://ch.nicovideo.jp/bluearchive-anime\nAni-One中文官方動畫頻道：https://www.
-	youtube.com/playlist?list=PLC18xlbCdwtTKmIcBFdi6KIzQGtn6Gz7i\nAni-One Asia
-	：https://www.youtube.com/playlist?list=PLxSscENEp7JgzVV7Mg2OKYppcCHKtkNcO\
-	n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=134319
-URL:https://bangumi.tv/subject/416777
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:9wHrDJ9tKVpz65kk6IF0Z
-SUMMARY:本季新番：《蔚蓝档案 动画版》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240616T144500Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/416777\nU-NEXT：https://video.un
 	ext.jp/title/SID0100093\nABEMA：https://abema.tv/video/title/210-12\nNiconi
@@ -1010,9 +807,9 @@ URL:https://bangumi.tv/subject/416777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:nzjUsfSy1H28P_NYhZbMS
+UID:B5Zh7hx-LjXYNs6NsPifn
 SUMMARY:本季新番：《蔚蓝档案 动画版》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240623T144500Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/416777\nU-NEXT：https://video.un
 	ext.jp/title/SID0100093\nABEMA：https://abema.tv/video/title/210-12\nNiconi
@@ -1024,9 +821,9 @@ URL:https://bangumi.tv/subject/416777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vwQ8exikkp8LPkydB7vzf
+UID:agbqfrNDtjGJScL4GWqEX
 SUMMARY:本季新番：《蔚蓝档案 动画版》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240630T144500Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/416777\nU-NEXT：https://video.un
 	ext.jp/title/SID0100093\nABEMA：https://abema.tv/video/title/210-12\nNiconi
@@ -1038,21 +835,9 @@ URL:https://bangumi.tv/subject/416777
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZdCFbOCohNguJQRZ3W90U
+UID:5-EFfkJT1qdOyI9Dvrq43
 SUMMARY:本季新番：《狼与香辛料 行商邂逅贤狼》
-DTSTAMP:20240603T101826Z
-DTSTART:20240603T163000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/372010\nNiconico：https://ch.nic
-	ovideo.jp/spice-and-wolf\nU-NEXT：https://video.unext.jp/title/SID0100059\n
-	ABEMA：https://abema.tv/video/title/25-259\nNetflix：https://www.netflix.com
-	/title/81768918
-URL:https://bangumi.tv/subject/372010
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:xjkvg5JkQGa8F2DFC68DN
-SUMMARY:本季新番：《狼与香辛料 行商邂逅贤狼》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240610T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/372010\nNiconico：https://ch.nic
 	ovideo.jp/spice-and-wolf\nU-NEXT：https://video.unext.jp/title/SID0100059\n
@@ -1062,9 +847,9 @@ URL:https://bangumi.tv/subject/372010
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ymfi7GNjGTWlMZ4AAiNbp
+UID:7uzsbZrnxqf2bTfkj4hp8
 SUMMARY:本季新番：《狼与香辛料 行商邂逅贤狼》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240617T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/372010\nNiconico：https://ch.nic
 	ovideo.jp/spice-and-wolf\nU-NEXT：https://video.unext.jp/title/SID0100059\n
@@ -1074,9 +859,9 @@ URL:https://bangumi.tv/subject/372010
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0m34R3hj32EOFjbZvjtgq
+UID:0s6V3ekUzMd0ukqQ7pVBi
 SUMMARY:本季新番：《狼与香辛料 行商邂逅贤狼》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240624T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/372010\nNiconico：https://ch.nic
 	ovideo.jp/spice-and-wolf\nU-NEXT：https://video.unext.jp/title/SID0100059\n
@@ -1086,21 +871,9 @@ URL:https://bangumi.tv/subject/372010
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uH0O5pxpGRaXTGAyZFe8h
+UID:guORagvQ9k8n0nxT-xp_a
 SUMMARY:本季新番：《关于我转生变成史莱姆这档事 第三季》
-DTSTAMP:20240603T101826Z
-DTSTART:20240608T150000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/407573\nNiconico：https://ch.nic
-	ovideo.jp/ten-sura_03\nU-NEXT：https://video.unext.jp/title/SID0100095\nABE
-	MA：https://abema.tv/video/title/420-11\n動畫瘋：https://acg.gamer.com.tw/acgDe
-	tail.php?s=128514\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2339137/
-URL:https://bangumi.tv/subject/407573
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:zIECw0EMKztkCwF-Gnax8
-SUMMARY:本季新番：《关于我转生变成史莱姆这档事 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240615T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407573\nNiconico：https://ch.nic
 	ovideo.jp/ten-sura_03\nU-NEXT：https://video.unext.jp/title/SID0100095\nABE
@@ -1110,9 +883,9 @@ URL:https://bangumi.tv/subject/407573
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OEZmoWWo6fJBED6UH95kj
+UID:_1pSN8abnf8M120DQpSCJ
 SUMMARY:本季新番：《关于我转生变成史莱姆这档事 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240622T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407573\nNiconico：https://ch.nic
 	ovideo.jp/ten-sura_03\nU-NEXT：https://video.unext.jp/title/SID0100095\nABE
@@ -1122,9 +895,9 @@ URL:https://bangumi.tv/subject/407573
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6ofaRpCxycIJeggp17N4o
+UID:OjjNq4nn6JtwERWzpdsaF
 SUMMARY:本季新番：《关于我转生变成史莱姆这档事 第三季》
-DTSTAMP:20240603T101826Z
+DTSTAMP:20240610T101631Z
 DTSTART:20240629T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/407573\nNiconico：https://ch.nic
 	ovideo.jp/ten-sura_03\nU-NEXT：https://video.unext.jp/title/SID0100095\nABE
