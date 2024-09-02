@@ -5,94 +5,65 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:EWAbhL9rCdSxml9WaLaM2
+UID:R1E1ECoHLHv7Ic1Kd0PCF
 SUMMARY:本季新番：《从路人角色开始的探索英雄谭》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T130000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/472554\n萌番组：https://bangumi.moe
-	/search/6681472657ba1568dc1b0812\n木棉花 HK：https://www.youtube.com/playlist?
-	list=PLuxqoToY7UchsWMZTkZ_VH_bV36eWlYNN\nABEMA：https://abema.tv/video/titl
-	e/218-709\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137102\n動畫瘋：htt
-	ps://acg.gamer.com.tw/acgDetail.php?s=137102\n动漫花园：https://share.dmhy.org/
-	topics/list?keyword=路人 英雄
-URL:https://bangumi.tv/subject/472554
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:nf_PUoyCfmpOeCZjXE7qZ
-SUMMARY:本季新番：《从路人角色开始的探索英雄谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/472554\n萌番组：https://bangumi.moe
 	/search/6681472657ba1568dc1b0812\n木棉花 HK：https://www.youtube.com/playlist?
 	list=PLuxqoToY7UchsWMZTkZ_VH_bV36eWlYNN\nABEMA：https://abema.tv/video/titl
 	e/218-709\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137102\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=137102\n动漫花园：https://share.dmhy.org/
-	topics/list?keyword=路人 英雄
+	topics/list?keyword=路人 英雄\n蜜柑计划：https://mikanani.me/Home/Bangumi/3365
 URL:https://bangumi.tv/subject/472554
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:olkHvkmoeCSTpwI5mJ58d
+UID:jB_m-Zpjme3m_axNMCJV5
 SUMMARY:本季新番：《从路人角色开始的探索英雄谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/472554\n萌番组：https://bangumi.moe
 	/search/6681472657ba1568dc1b0812\n木棉花 HK：https://www.youtube.com/playlist?
 	list=PLuxqoToY7UchsWMZTkZ_VH_bV36eWlYNN\nABEMA：https://abema.tv/video/titl
 	e/218-709\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137102\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=137102\n动漫花园：https://share.dmhy.org/
-	topics/list?keyword=路人 英雄
+	topics/list?keyword=路人 英雄\n蜜柑计划：https://mikanani.me/Home/Bangumi/3365
 URL:https://bangumi.tv/subject/472554
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QbszrAV5mDzBl7dwwMya0
+UID:1ijmlCEdIDC-EqHCopzob
 SUMMARY:本季新番：《从路人角色开始的探索英雄谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/472554\n萌番组：https://bangumi.moe
 	/search/6681472657ba1568dc1b0812\n木棉花 HK：https://www.youtube.com/playlist?
 	list=PLuxqoToY7UchsWMZTkZ_VH_bV36eWlYNN\nABEMA：https://abema.tv/video/titl
 	e/218-709\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137102\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=137102\n动漫花园：https://share.dmhy.org/
-	topics/list?keyword=路人 英雄
+	topics/list?keyword=路人 英雄\n蜜柑计划：https://mikanani.me/Home/Bangumi/3365
 URL:https://bangumi.tv/subject/472554
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:JPiC1NlnEBjob7Meq07uD
+UID:srim0WWXfkUE943RXwXa8
 SUMMARY:本季新番：《从路人角色开始的探索英雄谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/472554\n萌番组：https://bangumi.moe
 	/search/6681472657ba1568dc1b0812\n木棉花 HK：https://www.youtube.com/playlist?
 	list=PLuxqoToY7UchsWMZTkZ_VH_bV36eWlYNN\nABEMA：https://abema.tv/video/titl
 	e/218-709\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137102\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=137102\n动漫花园：https://share.dmhy.org/
-	topics/list?keyword=路人 英雄
+	topics/list?keyword=路人 英雄\n蜜柑计划：https://mikanani.me/Home/Bangumi/3365
 URL:https://bangumi.tv/subject/472554
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ktm0_Vjl2jLFgbsXm1Ec4
+UID:tjJ4jHutHgOcx76Yw5vyz
 SUMMARY:本季新番：《我要【招架】一切〜反误解的世界最强想成为冒险者〜》
-DTSTAMP:20240828T085014Z
-DTSTART:20240829T150000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/463389\n萌番组：https://bangumi.moe
-	/search/6681472057ba1568dc1b07f4\nABEMA：https://abema.tv/video/title/593-9
-	\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=136326\n木棉花 HK：https://w
-	ww.youtube.com/playlist?list=PLuxqoToY7UcicBSXDiIREguAl3PCG9WEL\n蜜柑计划：http
-	s://mikanani.me/Home/Bangumi/3368\n動畫瘋：https://acg.gamer.com.tw/acgDetail.
-	php?s=136326\nU-NEXT：https://video.unext.jp/title/SID0104176\n动漫花园：https:/
-	/share.dmhy.org/topics/list?keyword=招架 一切
-URL:https://bangumi.tv/subject/463389
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:lyBc83PMdGNXl4jZWmxtg
-SUMMARY:本季新番：《我要【招架】一切〜反误解的世界最强想成为冒险者〜》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240905T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/463389\n萌番组：https://bangumi.moe
 	/search/6681472057ba1568dc1b07f4\nABEMA：https://abema.tv/video/title/593-9
@@ -105,9 +76,9 @@ URL:https://bangumi.tv/subject/463389
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1g5eWQspQNH90ugWcZJUP
+UID:_re0dBo216EJlot80RKg4
 SUMMARY:本季新番：《我要【招架】一切〜反误解的世界最强想成为冒险者〜》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240912T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/463389\n萌番组：https://bangumi.moe
 	/search/6681472057ba1568dc1b07f4\nABEMA：https://abema.tv/video/title/593-9
@@ -120,9 +91,9 @@ URL:https://bangumi.tv/subject/463389
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:hDWYYqIgF2tb489ZDIEQt
+UID:fyatbAfxT6yPQK_EHfQEE
 SUMMARY:本季新番：《我要【招架】一切〜反误解的世界最强想成为冒险者〜》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240919T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/463389\n萌番组：https://bangumi.moe
 	/search/6681472057ba1568dc1b07f4\nABEMA：https://abema.tv/video/title/593-9
@@ -135,9 +106,9 @@ URL:https://bangumi.tv/subject/463389
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:GFXZygYtB04JtKemPSl4j
+UID:RHJdMvs5PpRSlaCN7hwO7
 SUMMARY:本季新番：《我要【招架】一切〜反误解的世界最强想成为冒险者〜》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240926T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/463389\n萌番组：https://bangumi.moe
 	/search/6681472057ba1568dc1b07f4\nABEMA：https://abema.tv/video/title/593-9
@@ -150,27 +121,9 @@ URL:https://bangumi.tv/subject/463389
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-4m--7hSwMroBOBr1qc2J
+UID:9kYccGX6Hz7eI4MuqernW
 SUMMARY:本季新番：《不时用俄语小声说真心话的邻桌艾莉同学》
-DTSTAMP:20240828T085014Z
-DTSTART:20240828T143000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/424883\nU-NEXT：https://video.un
-	ext.jp/title/SID0104147\n萌番组：https://bangumi.moe/search/6681471d57ba1568dc
-	1b07e6\nABEMA：https://abema.tv/video/title/25-269\nAni-One中文官方動畫頻道：https:/
-	/www.youtube.com/playlist?list=PLC18xlbCdwtRpwjgFuX7Ye7z4pufE-fTx\nAni-One
-	 Asia：https://www.youtube.com/playlist?list=PLxSscENEp7Jj-LKKsOzrbDe7b8sSg
-	37gz\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2381340/\n動畫瘋 HK：https://ac
-	g.gamer.com.tw/acgDetail.php?s=135735\n蜜柑计划：https://mikanani.me/Home/Bangu
-	mi/3373\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=135735\nNetflix：http
-	s://www.netflix.com/title/81661821\n哔哩哔哩：https://www.bilibili.com/bangumi/
-	media/md22053031/\n动漫花园：https://share.dmhy.org/topics/list?keyword=俄語
-URL:https://bangumi.tv/subject/424883
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:8xWbFzaMTN_fT7045an02
-SUMMARY:本季新番：《不时用俄语小声说真心话的邻桌艾莉同学》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240904T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424883\nU-NEXT：https://video.un
 	ext.jp/title/SID0104147\n萌番组：https://bangumi.moe/search/6681471d57ba1568dc
@@ -186,9 +139,9 @@ URL:https://bangumi.tv/subject/424883
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:nsZHCNYKco0DJzYPbzYPV
+UID:rv-bQuOlBZaXxXU6YkMbl
 SUMMARY:本季新番：《不时用俄语小声说真心话的邻桌艾莉同学》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240911T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424883\nU-NEXT：https://video.un
 	ext.jp/title/SID0104147\n萌番组：https://bangumi.moe/search/6681471d57ba1568dc
@@ -204,9 +157,9 @@ URL:https://bangumi.tv/subject/424883
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6_wrlJEjZ0U1NW4vBcT-I
+UID:h4UyEQ3JE5HNlGT6Qtq1j
 SUMMARY:本季新番：《不时用俄语小声说真心话的邻桌艾莉同学》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240918T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424883\nU-NEXT：https://video.un
 	ext.jp/title/SID0104147\n萌番组：https://bangumi.moe/search/6681471d57ba1568dc
@@ -222,9 +175,9 @@ URL:https://bangumi.tv/subject/424883
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Nmz0Ecv42I2H71cJgP63m
+UID:9FMjoZxgzVRWA9RlnhYiW
 SUMMARY:本季新番：《不时用俄语小声说真心话的邻桌艾莉同学》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240925T143000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/424883\nU-NEXT：https://video.un
 	ext.jp/title/SID0104147\n萌番组：https://bangumi.moe/search/6681471d57ba1568dc
@@ -240,25 +193,9 @@ URL:https://bangumi.tv/subject/424883
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lKOLaqi2KFrDauBrUZHhb
+UID:YLge6HNDwxhvvah8A0Chc
 SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
-	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
-	1b0814\nAni-One中文官方動畫頻道：https://www.youtube.com/playlist?list=PLC18xlbCdwt
-	QjtiAhDAhKv0WprucTbWk9\nAni-One Asia：https://www.youtube.com/playlist?list
-	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
-	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
-	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
-URL:https://bangumi.tv/subject/446615
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:vfWFs57d_W7ivBibA2PRO
-SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
 	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
@@ -267,14 +204,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://v
 	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
 	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
+	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘\n蜜柑计
+	划：https://mikanani.me/Home/Bangumi/3376
 URL:https://bangumi.tv/subject/446615
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:z2qbz1kMovx-oA3FkEtvL
+UID:ov4AGzSjFWTeKDgHlUd-J
 SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
 	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
@@ -283,14 +221,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://v
 	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
 	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
+	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘\n蜜柑计
+	划：https://mikanani.me/Home/Bangumi/3376
 URL:https://bangumi.tv/subject/446615
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2vejTeXqZ2LuwamUCbZ0N
+UID:Py852WhQTwAKMT6ccyItV
 SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
 	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
@@ -299,14 +238,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://v
 	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
 	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
+	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘\n蜜柑计
+	划：https://mikanani.me/Home/Bangumi/3376
 URL:https://bangumi.tv/subject/446615
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Jmxyq7QERH65j-osIoohw
+UID:UTYTRL6SvwfyiVoQ1Vcd5
 SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
 	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
@@ -315,14 +255,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://v
 	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
 	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
+	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘\n蜜柑计
+	划：https://mikanani.me/Home/Bangumi/3376
 URL:https://bangumi.tv/subject/446615
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZBzWUwNvAGmcu1U1ihB3L
+UID:ANEh3uFYDh1GybMSeH2g3
 SUMMARY:本季新番：《为何我的世界被遗忘了？》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20241005T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://video.un
 	ext.jp/title/SID0104178\n萌番组：https://bangumi.moe/search/6681472757ba1568dc
@@ -331,177 +272,146 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/446615\nU-NEXT：https://v
 	=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G\nNetflix：https://www.netflix.com/title
 	/81909528\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=134322\n動畫瘋：htt
 	ps://acg.gamer.com.tw/acgDetail.php?s=134322\nABEMA：https://abema.tv/video
-	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘
+	/title/169-145\n动漫花园：https://share.dmhy.org/topics/list?keyword=世界被遺忘\n蜜柑计
+	划：https://mikanani.me/Home/Bangumi/3376
 URL:https://bangumi.tv/subject/446615
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SX17G4q1fNdU-pXYG-nkI
+UID:_uxp2vRE6pKUpNgYyVX2Z
 SUMMARY:本季新番：《物语系列 外传季&怪物季》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T130000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/475354\nU-NEXT：https://video.un
-	ext.jp/title/SID0125074\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1374
-	44\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137444\n萌番组：https://ba
-	ngumi.moe/search/669cf974bfe5da00073b109f\n动漫花园：https://share.dmhy.org/top
-	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster
-URL:https://bangumi.tv/subject/475354
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:7I4AvQMHNx_nlTjykT9MF
-SUMMARY:本季新番：《物语系列 外传季&怪物季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/475354\nU-NEXT：https://video.un
 	ext.jp/title/SID0125074\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1374
 	44\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137444\n萌番组：https://ba
 	ngumi.moe/search/669cf974bfe5da00073b109f\n动漫花园：https://share.dmhy.org/top
-	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster
+	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster\n蜜柑计划：https://mikanani.me/Home/
+	Bangumi/3380
 URL:https://bangumi.tv/subject/475354
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:TIMXIPbCIoLp--8jRTw8w
+UID:LRhNsrxAwGbZ0CuoOJmxy
 SUMMARY:本季新番：《物语系列 外传季&怪物季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/475354\nU-NEXT：https://video.un
 	ext.jp/title/SID0125074\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1374
 	44\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137444\n萌番组：https://ba
 	ngumi.moe/search/669cf974bfe5da00073b109f\n动漫花园：https://share.dmhy.org/top
-	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster
+	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster\n蜜柑计划：https://mikanani.me/Home/
+	Bangumi/3380
 URL:https://bangumi.tv/subject/475354
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:kADN61GLVBd--yfQcxGCK
+UID:39FD5sxW3uAgZN1yg9C3w
 SUMMARY:本季新番：《物语系列 外传季&怪物季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/475354\nU-NEXT：https://video.un
 	ext.jp/title/SID0125074\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1374
 	44\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137444\n萌番组：https://ba
 	ngumi.moe/search/669cf974bfe5da00073b109f\n动漫花园：https://share.dmhy.org/top
-	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster
+	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster\n蜜柑计划：https://mikanani.me/Home/
+	Bangumi/3380
 URL:https://bangumi.tv/subject/475354
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:g-8lX2G-9_t9M5tEMik3-
+UID:UTHYEe95bzR5wHTTPugga
 SUMMARY:本季新番：《物语系列 外传季&怪物季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T130000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/475354\nU-NEXT：https://video.un
 	ext.jp/title/SID0125074\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=1374
 	44\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=137444\n萌番组：https://ba
 	ngumi.moe/search/669cf974bfe5da00073b109f\n动漫花园：https://share.dmhy.org/top
-	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster
+	ics/list?keyword=物語系列 7月新番|怪物季|第怪季|Monster\n蜜柑计划：https://mikanani.me/Home/
+	Bangumi/3380
 URL:https://bangumi.tv/subject/475354
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:HIEnTQnHpMzSYGCADL1oG
+UID:AK_3XCrwsHnYdgT7YD2GE
 SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
-DTSTART:20240828T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
-	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
-	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
-	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
-URL:https://bangumi.tv/subject/351349
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:QkefzR20__lg9qc8Q6ulA
-SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240904T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
 	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:exzPEqHX5-3reUxU8et-2
+UID:TgVXN00XQferEuG501xHJ
 SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240911T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
 	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Cd1CiQp3zd2NHu9Z9y41C
+UID:pMSXe8XaN1KQvgBDi91rh
 SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240918T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
 	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6Uw0RiKDSze0IcDWpBQmw
+UID:WXYrafYRneSO8HaGDm2HL
 SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240925T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
 	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9x52QPb8iUyRgNQqZDKja
+UID:Wzl0qW80GuumaQ9ykNuQw
 SUMMARY:本季新番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20241002T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
 	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yRhzAx1ldpUyH-oTGlH6L
+UID:rOeITtwggeJ5H8TUtiYob
 SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T150000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
-	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
-	1b081a\n蜜柑计划：https://mikanani.me/Home/Bangumi/3386\n哔哩哔哩（港澳台）：https://www.
-	bilibili.com/bangumi/media/md22099155/\n哔哩哔哩：https://www.bilibili.com/bang
-	umi/media/md22097455/\nABEMA：https://abema.tv/video/title/26-223\n动漫花园：htt
-	ps://share.dmhy.org/topics/list?keyword=ATRI
-URL:https://bangumi.tv/subject/397604
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:zMlPoe_VTHf8ptaMSelJS
-SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
 	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
@@ -513,9 +423,9 @@ URL:https://bangumi.tv/subject/397604
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:IWkh2a3W6_zIGQZvDQLPA
+UID:vjJdFcmh3P1-3QoIzV7FE
 SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
 	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
@@ -527,9 +437,9 @@ URL:https://bangumi.tv/subject/397604
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PXLiB4Zcx_0OmgYN17zul
+UID:tNpR7bxmFoX8R9drzsFSC
 SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
 	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
@@ -541,9 +451,9 @@ URL:https://bangumi.tv/subject/397604
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2qZMwNfizOjibrJejePQk
+UID:rzkvswqL813qUyM8bE768
 SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
 	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
@@ -555,9 +465,9 @@ URL:https://bangumi.tv/subject/397604
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:No1YWXbuVl5ENrF50C-xp
+UID:f35TGy44T6v6Mni2bzlND
 SUMMARY:本季新番：《亚托莉 -我挚爱的时光-》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20241005T150000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/397604\nU-NEXT：https://video.un
 	ext.jp/title/SID0104163\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
@@ -569,21 +479,9 @@ URL:https://bangumi.tv/subject/397604
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:O-O1lboxpgjLEzhU146uG
+UID:IeOXVf6xS7TVTWv27aAB7
 SUMMARY:本季新番：《义妹生活》
-DTSTAMP:20240828T085014Z
-DTSTART:20240829T120000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/393037\nU-NEXT：https://video.un
-	ext.jp/title/SID0104145\n萌番组：https://bangumi.moe/search/6681471f57ba1568dc
-	1b07ee\n蜜柑计划：https://mikanani.me/Home/Bangumi/3387\nABEMA：https://abema.tv
-	/video/title/25-268\n动漫花园：https://share.dmhy.org/topics/list?keyword=義妹生活
-URL:https://bangumi.tv/subject/393037
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:qjSVfX5-t4lKSRVucJEfU
-SUMMARY:本季新番：《义妹生活》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240905T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/393037\nU-NEXT：https://video.un
 	ext.jp/title/SID0104145\n萌番组：https://bangumi.moe/search/6681471f57ba1568dc
@@ -593,9 +491,9 @@ URL:https://bangumi.tv/subject/393037
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BmqtDq_y2R_oFjm8SeRET
+UID:tc0fhP8XiKKHG23pnFd2a
 SUMMARY:本季新番：《义妹生活》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240912T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/393037\nU-NEXT：https://video.un
 	ext.jp/title/SID0104145\n萌番组：https://bangumi.moe/search/6681471f57ba1568dc
@@ -605,9 +503,9 @@ URL:https://bangumi.tv/subject/393037
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:730pT3CXUPoWCEn8_Vils
+UID:ANlYhpjaursjpGUXET7H4
 SUMMARY:本季新番：《义妹生活》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240919T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/393037\nU-NEXT：https://video.un
 	ext.jp/title/SID0104145\n萌番组：https://bangumi.moe/search/6681471f57ba1568dc
@@ -617,9 +515,9 @@ URL:https://bangumi.tv/subject/393037
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SJ07DyblXNFxdp6PI6qwW
+UID:QaTsoeeCESUI_ZGf4IoQ8
 SUMMARY:本季新番：《义妹生活》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240926T120000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/393037\nU-NEXT：https://video.un
 	ext.jp/title/SID0104145\n萌番组：https://bangumi.moe/search/6681471f57ba1568dc
@@ -629,27 +527,9 @@ URL:https://bangumi.tv/subject/393037
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f1magUKrTURbTpiUGcJ6p
+UID:gTfWde5o4CEAWAg03EMoJ
 SUMMARY:本季新番：《疑似后宫》
-DTSTAMP:20240828T085014Z
-DTSTART:20240829T153000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/428823\nU-NEXT：https://video.un
-	ext.jp/title/SID0104141\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/
-	md22198701/\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f8\nABEM
-	A：https://abema.tv/video/title/189-65\nAni-One中文官方動畫頻道：https://www.youtube
-	.com/playlist?list=PLC18xlbCdwtSG6MYgyLzh7RJ-e0Rpte5t\nAni-One Asia：https:
-	//www.youtube.com/playlist?list=PLxSscENEp7JjWo6Fc37gLC2NijjFtqkPF\n動畫瘋 HK
-	：https://acg.gamer.com.tw/acgDetail.php?s=136266\n蜜柑计划：https://mikanani.me
-	/Home/Bangumi/3390\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=136266\n哔
-	哩哔哩：https://www.bilibili.com/bangumi/media/md21208526/\n动漫花园：https://share
-	.dmhy.org/topics/list?keyword=模擬後宮
-URL:https://bangumi.tv/subject/428823
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:m0g_l73cM63Z-jS7Z3CPb
-SUMMARY:本季新番：《疑似后宫》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240905T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/428823\nU-NEXT：https://video.un
 	ext.jp/title/SID0104141\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/
@@ -665,9 +545,9 @@ URL:https://bangumi.tv/subject/428823
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PMZl_Kv4dTqVjdoP74f_J
+UID:2iKqBeYYGwAhVlcQOVSFh
 SUMMARY:本季新番：《疑似后宫》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240912T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/428823\nU-NEXT：https://video.un
 	ext.jp/title/SID0104141\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/
@@ -683,9 +563,9 @@ URL:https://bangumi.tv/subject/428823
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7LtLYRr7p1oaRr-tUUz6q
+UID:i_rrWoSjJVAiUp_ldmMhv
 SUMMARY:本季新番：《疑似后宫》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240919T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/428823\nU-NEXT：https://video.un
 	ext.jp/title/SID0104141\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/
@@ -701,9 +581,9 @@ URL:https://bangumi.tv/subject/428823
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4F_hRrCKj-0FbVJ2c-UbC
+UID:Zh-NHmoF_geUHQOWwZk4o
 SUMMARY:本季新番：《疑似后宫》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240926T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/428823\nU-NEXT：https://video.un
 	ext.jp/title/SID0104141\n哔哩哔哩（港澳台）：https://www.bilibili.com/bangumi/media/
@@ -719,109 +599,84 @@ URL:https://bangumi.tv/subject/428823
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0RIHi17Ps8RoswXlOmljf
+UID:OJX54ht01E_THTi60dhUR
 SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T153000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
-	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
-	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
-	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
-	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
-URL:https://bangumi.tv/subject/464376
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:Wo4W0I9_QSjxZcgRALISF
-SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
 	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
 	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
 	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
 	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
+	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女\n蜜柑计划：https://mikanani.me/Home/B
+	angumi/3391
 URL:https://bangumi.tv/subject/464376
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:gzoQjjsTARbb6WiMLfrL4
+UID:qC42ZWE-91NuaJkGzys_w
 SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
 	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
 	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
 	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
 	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
+	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女\n蜜柑计划：https://mikanani.me/Home/B
+	angumi/3391
 URL:https://bangumi.tv/subject/464376
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:RYv_2ZKs2jof34dVk169N
+UID:t0HpoHzcvfvExvV4668dA
 SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
 	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
 	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
 	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
 	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
+	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女\n蜜柑计划：https://mikanani.me/Home/B
+	angumi/3391
 URL:https://bangumi.tv/subject/464376
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fURN6Tq3Yip3L4yY5C3OH
+UID:seiqJ4rSNEuyuPg4wo2pI
 SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
 	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
 	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
 	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
 	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
+	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女\n蜜柑计划：https://mikanani.me/Home/B
+	angumi/3391
 URL:https://bangumi.tv/subject/464376
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uTXYQgN7xqXr-g_1zRQ3U
+UID:sxkoLc7o_a0CFEN1DBAUw
 SUMMARY:本季新番：《败犬女主太多了！》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20241005T153000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/464376\nU-NEXT：https://video.un
 	ext.jp/title/SID0104158\n萌番组：https://bangumi.moe/search/6681472857ba1568dc
 	1b081c\nNetflix：https://www.netflix.com/title/81566401\n動畫瘋 HK：https://acg
 	.gamer.com.tw/acgDetail.php?s=136968\n動畫瘋：https://acg.gamer.com.tw/acgDeta
 	il.php?s=136968\nABEMA：https://abema.tv/video/title/26-224\n动漫花园：https://s
-	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女
+	hare.dmhy.org/topics/list?keyword=敗北女|敗犬女\n蜜柑计划：https://mikanani.me/Home/B
+	angumi/3391
 URL:https://bangumi.tv/subject/464376
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yLikrxywG12LCOHdjRa2o
+UID:oeWomkYsK5z234OH-Ij4d
 SUMMARY:本季新番：《小市民系列》
-DTSTAMP:20240828T085014Z
-DTSTART:20240831T163000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https://bangumi.moe
-	/search/6681472957ba1568dc1b0820\nABEMA：https://abema.tv/video/title/12-25
-	\nAni-One中文官方動畫頻道：https://www.youtube.com/playlist?list=PLC18xlbCdwtS092ep
-	Dz2jxQkCRT67XfSd\nAni-One Asia：https://www.youtube.com/playlist?list=PLxSs
-	cENEp7JiywGHdQ_PsbRUNdj5f7h8H\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=137326\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137326\nU-NEXT：h
-	ttps://video.unext.jp/title/SID0104528\n哔哩哔哩：https://www.bilibili.com/bang
-	umi/media/md22097697/\n动漫花园：https://share.dmhy.org/topics/list?keyword=小市民
-URL:https://bangumi.tv/subject/474906
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:TUfnFG0HE9CEkrxV9vHiT
-SUMMARY:本季新番：《小市民系列》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240907T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https://bangumi.moe
 	/search/6681472957ba1568dc1b0820\nABEMA：https://abema.tv/video/title/12-25
@@ -831,13 +686,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https:
 	hp?s=137326\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137326\nU-NEXT：h
 	ttps://video.unext.jp/title/SID0104528\n哔哩哔哩：https://www.bilibili.com/bang
 	umi/media/md22097697/\n动漫花园：https://share.dmhy.org/topics/list?keyword=小市民
+	\n蜜柑计划：https://mikanani.me/Home/Bangumi/3392
 URL:https://bangumi.tv/subject/474906
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jefipzw8Rctn9dhJJ0wFh
+UID:LhgoyugFqqc2cIsIwXzyQ
 SUMMARY:本季新番：《小市民系列》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240914T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https://bangumi.moe
 	/search/6681472957ba1568dc1b0820\nABEMA：https://abema.tv/video/title/12-25
@@ -847,13 +703,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https:
 	hp?s=137326\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137326\nU-NEXT：h
 	ttps://video.unext.jp/title/SID0104528\n哔哩哔哩：https://www.bilibili.com/bang
 	umi/media/md22097697/\n动漫花园：https://share.dmhy.org/topics/list?keyword=小市民
+	\n蜜柑计划：https://mikanani.me/Home/Bangumi/3392
 URL:https://bangumi.tv/subject/474906
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DClOYM_E-UnQ2JvmIT0NG
+UID:BEkKLwc6U4hh9o68lYQKh
 SUMMARY:本季新番：《小市民系列》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240921T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https://bangumi.moe
 	/search/6681472957ba1568dc1b0820\nABEMA：https://abema.tv/video/title/12-25
@@ -863,13 +720,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https:
 	hp?s=137326\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137326\nU-NEXT：h
 	ttps://video.unext.jp/title/SID0104528\n哔哩哔哩：https://www.bilibili.com/bang
 	umi/media/md22097697/\n动漫花园：https://share.dmhy.org/topics/list?keyword=小市民
+	\n蜜柑计划：https://mikanani.me/Home/Bangumi/3392
 URL:https://bangumi.tv/subject/474906
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XpYIPyPbhFR25kTJdTlhr
+UID:UW9aSxCYUszaxnh9ZGsef
 SUMMARY:本季新番：《小市民系列》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240928T163000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https://bangumi.moe
 	/search/6681472957ba1568dc1b0820\nABEMA：https://abema.tv/video/title/12-25
@@ -879,29 +737,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/474906\n萌番组：https:
 	hp?s=137326\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137326\nU-NEXT：h
 	ttps://video.unext.jp/title/SID0104528\n哔哩哔哩：https://www.bilibili.com/bang
 	umi/media/md22097697/\n动漫花园：https://share.dmhy.org/topics/list?keyword=小市民
+	\n蜜柑计划：https://mikanani.me/Home/Bangumi/3392
 URL:https://bangumi.tv/subject/474906
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:afU9zQNwoLo8PNg2Iu_xt
+UID:P8CIhcI9FgFIpma8d47mt
 SUMMARY:本季新番：《2.5次元的诱惑》
-DTSTAMP:20240828T085014Z
-DTSTART:20240830T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
-	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
-	list=PLuxqoToY7UcixG3IrVhA9d8QE08CQmOtx\nU-NEXT：https://video.unext.jp/tit
-	le/SID0104168\nABEMA：https://abema.tv/video/title/675-3\nNetflix：https://w
-	ww.netflix.com/title/81909977\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=134781\n蜜柑计划：https://mikanani.me/Home/Bangumi/3394\n動畫瘋：https://acg.g
-	amer.com.tw/acgDetail.php?s=134781\n动漫花园：https://share.dmhy.org/topics/lis
-	t?keyword=2.5次元
-URL:https://bangumi.tv/subject/410346
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:THEOT3eGKBGNEXVd7UpmC
-SUMMARY:本季新番：《2.5次元的诱惑》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240906T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -915,9 +758,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QAVYwGZNV35hgeNyRNoq8
+UID:OyB2eOzl4AwGhLJcSK8f0
 SUMMARY:本季新番：《2.5次元的诱惑》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240913T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -931,9 +774,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cFJs9OBf0OBkQSiPXm9H0
+UID:dTRmM5eWUOexHwRYztbdb
 SUMMARY:本季新番：《2.5次元的诱惑》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240920T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -947,9 +790,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:CzB5GCinQeI3z4k_asieo
+UID:i-MJEnqfCajS2fA669BOZ
 SUMMARY:本季新番：《2.5次元的诱惑》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240927T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -963,24 +806,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:m69b34qYg0OQK9TYzn2Wj
+UID:6ODsU5lP2syeWiskYudov
 SUMMARY:本季新番：《杖与剑的魔剑谭》
-DTSTAMP:20240828T085014Z
-DTSTART:20240901T073000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://video.un
-	ext.jp/title/SID0104180\n萌番组：https://bangumi.moe/search/6681471457ba1568dc
-	1b07be\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2382480/\n動畫瘋：https://acg
-	.gamer.com.tw/acgDetail.php?s=137785\n動畫瘋 HK：https://acg.gamer.com.tw/acgD
-	etail.php?s=137785\nNetflix：https://www.netflix.com/title/81900358\nABEMA：
-	https://abema.tv/video/title/420-68\nDisney+：https://www.disneyplus.com/se
-	ries/view/5HfHsz9sNuZp
-URL:https://bangumi.tv/subject/479477
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:nnIjAZgSvSyrLdIbNw0HB
-SUMMARY:本季新番：《杖与剑的魔剑谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240908T073000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://video.un
 	ext.jp/title/SID0104180\n萌番组：https://bangumi.moe/search/6681471457ba1568dc
@@ -988,14 +816,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://v
 	.gamer.com.tw/acgDetail.php?s=137785\n動畫瘋 HK：https://acg.gamer.com.tw/acgD
 	etail.php?s=137785\nNetflix：https://www.netflix.com/title/81900358\nABEMA：
 	https://abema.tv/video/title/420-68\nDisney+：https://www.disneyplus.com/se
-	ries/view/5HfHsz9sNuZp
+	ries/view/5HfHsz9sNuZp\n蜜柑计划：https://mikanani.me/Home/Bangumi/3404
 URL:https://bangumi.tv/subject/479477
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OjdamTPlSM3t4wnX_LNGg
+UID:B0g00E96RSpPsmVF3I4xf
 SUMMARY:本季新番：《杖与剑的魔剑谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240915T073000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://video.un
 	ext.jp/title/SID0104180\n萌番组：https://bangumi.moe/search/6681471457ba1568dc
@@ -1003,14 +831,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://v
 	.gamer.com.tw/acgDetail.php?s=137785\n動畫瘋 HK：https://acg.gamer.com.tw/acgD
 	etail.php?s=137785\nNetflix：https://www.netflix.com/title/81900358\nABEMA：
 	https://abema.tv/video/title/420-68\nDisney+：https://www.disneyplus.com/se
-	ries/view/5HfHsz9sNuZp
+	ries/view/5HfHsz9sNuZp\n蜜柑计划：https://mikanani.me/Home/Bangumi/3404
 URL:https://bangumi.tv/subject/479477
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DDQkXquUlrKJq8caHKHcS
+UID:tkzSzrkxf8aDpqCTiSSG-
 SUMMARY:本季新番：《杖与剑的魔剑谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240922T073000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://video.un
 	ext.jp/title/SID0104180\n萌番组：https://bangumi.moe/search/6681471457ba1568dc
@@ -1018,14 +846,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://v
 	.gamer.com.tw/acgDetail.php?s=137785\n動畫瘋 HK：https://acg.gamer.com.tw/acgD
 	etail.php?s=137785\nNetflix：https://www.netflix.com/title/81900358\nABEMA：
 	https://abema.tv/video/title/420-68\nDisney+：https://www.disneyplus.com/se
-	ries/view/5HfHsz9sNuZp
+	ries/view/5HfHsz9sNuZp\n蜜柑计划：https://mikanani.me/Home/Bangumi/3404
 URL:https://bangumi.tv/subject/479477
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:AoRoYPdmFoub4T4NFjDpK
+UID:NopfdkOyzT1_Mq_Zocrar
 SUMMARY:本季新番：《杖与剑的魔剑谭》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240929T073000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://video.un
 	ext.jp/title/SID0104180\n萌番组：https://bangumi.moe/search/6681471457ba1568dc
@@ -1033,29 +861,14 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/479477\nU-NEXT：https://v
 	.gamer.com.tw/acgDetail.php?s=137785\n動畫瘋 HK：https://acg.gamer.com.tw/acgD
 	etail.php?s=137785\nNetflix：https://www.netflix.com/title/81900358\nABEMA：
 	https://abema.tv/video/title/420-68\nDisney+：https://www.disneyplus.com/se
-	ries/view/5HfHsz9sNuZp
+	ries/view/5HfHsz9sNuZp\n蜜柑计划：https://mikanani.me/Home/Bangumi/3404
 URL:https://bangumi.tv/subject/479477
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OBNraKsexA2V9-drrJUbp
+UID:Zrc4ixQtL0eJaU904CJ0R
 SUMMARY:本季新番：《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》
-DTSTAMP:20240828T085014Z
-DTSTART:20240829T155900Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/476418\nU-NEXT：https://video.un
-	ext.jp/title/SID0104142\n萌番组：https://bangumi.moe/search/6681472257ba1568dc
-	1b07fc\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2381953/\n動畫瘋 HK：https://
-	acg.gamer.com.tw/acgDetail.php?s=137492\n蜜柑计划：https://mikanani.me/Home/Ban
-	gumi/3405\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=137492\nABEMA：http
-	s://abema.tv/video/title/189-68\n动漫花园：https://share.dmhy.org/topics/list?k
-	eyword=狀態異常
-URL:https://bangumi.tv/subject/476418
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:9i5qrXio2SUScugR991z7
-SUMMARY:本季新番：《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240905T155900Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/476418\nU-NEXT：https://video.un
 	ext.jp/title/SID0104142\n萌番组：https://bangumi.moe/search/6681472257ba1568dc
@@ -1068,9 +881,9 @@ URL:https://bangumi.tv/subject/476418
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:FkJ-aJi4F0StroZ7zF4nn
+UID:MucZf34AjPhgpYE4zDkOK
 SUMMARY:本季新番：《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240912T155900Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/476418\nU-NEXT：https://video.un
 	ext.jp/title/SID0104142\n萌番组：https://bangumi.moe/search/6681472257ba1568dc
@@ -1083,9 +896,9 @@ URL:https://bangumi.tv/subject/476418
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:pnJ2CxP2oTNbF7anXzkVS
+UID:KtT2P1pLBnpdNIhOAukK-
 SUMMARY:本季新番：《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240919T155900Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/476418\nU-NEXT：https://video.un
 	ext.jp/title/SID0104142\n萌番组：https://bangumi.moe/search/6681472257ba1568dc
@@ -1098,9 +911,9 @@ URL:https://bangumi.tv/subject/476418
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:SWiVLHTtTwWviKopxO401
+UID:m0zJhH00yFxrULUEcxVlQ
 SUMMARY:本季新番：《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240926T155900Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/476418\nU-NEXT：https://video.un
 	ext.jp/title/SID0104142\n萌番组：https://bangumi.moe/search/6681472257ba1568dc
@@ -1113,26 +926,9 @@ URL:https://bangumi.tv/subject/476418
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8rguKqTKcczoFZmw80pqX
+UID:gzgE3oCKN-4ajug7gAcUC
 SUMMARY:本季新番：《【我推的孩子】 第二季》
-DTSTAMP:20240828T085014Z
-DTSTART:20240828T140000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/443428\nU-NEXT：https://video.un
-	ext.jp/title/SID0104149\nABEMA：https://abema.tv/video/title/25-240\n萌番组：ht
-	tps://bangumi.moe/search/6681471d57ba1568dc1b07e4\nAni-One中文官方動畫頻道：https:/
-	/www.youtube.com/playlist?list=PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh\nAni-One
-	 Asia：https://www.youtube.com/playlist?list=PLxSscENEp7JjnfDK89UJui3A9wj9I
-	b6yF\nViu：https://www.viu.com/ott/hk/zh-hk/vod/2381421/\nNetflix：https://w
-	ww.netflix.com/title/81684733\nDisney+：https://www.disneyplus.com/series/v
-	iew/4xE7VXJDjfbd\n蜜柑计划：https://mikanani.me/Home/Bangumi/3407\n动漫花园：https:/
-	/share.dmhy.org/topics/list?keyword=我推
-URL:https://bangumi.tv/subject/443428
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:5B8YvYkkb8PnIy0_jWQ-y
-SUMMARY:本季新番：《【我推的孩子】 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240904T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/443428\nU-NEXT：https://video.un
 	ext.jp/title/SID0104149\nABEMA：https://abema.tv/video/title/25-240\n萌番组：ht
@@ -1147,9 +943,9 @@ URL:https://bangumi.tv/subject/443428
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BU9Cb_hitkc6PHYuglqRN
+UID:1KdJaYmbIfLxoPl9nQ3fw
 SUMMARY:本季新番：《【我推的孩子】 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240911T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/443428\nU-NEXT：https://video.un
 	ext.jp/title/SID0104149\nABEMA：https://abema.tv/video/title/25-240\n萌番组：ht
@@ -1164,9 +960,9 @@ URL:https://bangumi.tv/subject/443428
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xu_P6J8CLJyatJt9VRZm5
+UID:UTKEPEC3f9CJk1nknWjKQ
 SUMMARY:本季新番：《【我推的孩子】 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240918T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/443428\nU-NEXT：https://video.un
 	ext.jp/title/SID0104149\nABEMA：https://abema.tv/video/title/25-240\n萌番组：ht
@@ -1181,9 +977,9 @@ URL:https://bangumi.tv/subject/443428
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:g1TWWnLkQFMR4xrzdXlU_
+UID:1O57KoX_H9OzBfPdKsEE-
 SUMMARY:本季新番：《【我推的孩子】 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240925T140000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/443428\nU-NEXT：https://video.un
 	ext.jp/title/SID0104149\nABEMA：https://abema.tv/video/title/25-240\n萌番组：ht
@@ -1198,21 +994,9 @@ URL:https://bangumi.tv/subject/443428
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:n5pKiv8zTb-QzzyFIKF02
+UID:zSh6VYCzRsRlxcP0HVKTR
 SUMMARY:本季新番：《女神的露天咖啡厅 第二季》
-DTSTAMP:20240828T085014Z
-DTSTART:20240828T160000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/442673\nABEMA：https://abema.tv/
-	video/title/632-1\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f6
-	\n蜜柑计划：https://mikanani.me/Home/Bangumi/3409\nU-NEXT：https://video.unext.j
-	p/title/SID0079589
-URL:https://bangumi.tv/subject/442673
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:0F1JdiCUz-c5CbYk1g8wP
-SUMMARY:本季新番：《女神的露天咖啡厅 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240904T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/442673\nABEMA：https://abema.tv/
 	video/title/632-1\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f6
@@ -1222,9 +1006,9 @@ URL:https://bangumi.tv/subject/442673
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:grdX80F5X3_3P6t-dGird
+UID:Er7gCtTz2_xHNnto1tKEH
 SUMMARY:本季新番：《女神的露天咖啡厅 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240911T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/442673\nABEMA：https://abema.tv/
 	video/title/632-1\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f6
@@ -1234,9 +1018,9 @@ URL:https://bangumi.tv/subject/442673
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PO-HGlu83hp2muUiviptQ
+UID:CWN8rkJv_VSr3y6hToAag
 SUMMARY:本季新番：《女神的露天咖啡厅 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240918T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/442673\nABEMA：https://abema.tv/
 	video/title/632-1\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f6
@@ -1246,9 +1030,9 @@ URL:https://bangumi.tv/subject/442673
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:trk2a8_HtH9dzozbjsBsv
+UID:ZA0r0yDT3pIbTKDRr5Q7D
 SUMMARY:本季新番：《女神的露天咖啡厅 第二季》
-DTSTAMP:20240828T085014Z
+DTSTAMP:20240902T101711Z
 DTSTART:20240925T160000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/442673\nABEMA：https://abema.tv/
 	video/title/632-1\n萌番组：https://bangumi.moe/search/6681472157ba1568dc1b07f6
