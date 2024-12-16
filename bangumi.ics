@@ -5,24 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:hTvY-Ai17wMLBH55sH7EZ
+UID:P6BHtAH1_jsdhzXFH2ooz
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
-DTSTART:20241218T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
-	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
-	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
-	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
-URL:https://bangumi.tv/subject/351349
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:TtqJlxdhILd2GkSsqf7bj
-SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20241225T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -35,9 +20,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:n9qlgo108yqIUu5VEe177
+UID:yJyU9gBuzrziYwPPjxIKr
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250101T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -50,9 +35,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vFZvJFgv_FwQjS_kWX2Op
+UID:ihu-tvgJ9UJe2EZS1g9g7
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250108T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -65,9 +50,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:u5xoTETW_znxIvNRSGD40
+UID:uIOyD4JKwRQ84_G36EftW
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250115T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -80,9 +65,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8zf0Mynf_juWqn9C-2TVw
+UID:HZeXd8rsBPdVlLZxhJdjZ
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250122T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -95,9 +80,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:keWxiJpHMJs9ctB33iEOr
+UID:GV5yzMXyj-Bis2Tdpzl8o
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250129T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -110,9 +95,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fwk8nF_OH5wpaD6GuT0vJ
+UID:XHDCMILhWBMEjhIJJMHf5
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250205T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -125,9 +110,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:tlex-oGsznuyVe-O-Dnt-
+UID:6grsTsyN5immuViti9Qft
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250212T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -140,9 +125,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:NPyIihOo9mY492C2XE6lw
+UID:a4iRx0vjFY8zcvjrr2mEq
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250219T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -155,9 +140,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:E1nwzq68hPlWSEV257aU1
+UID:22jVOddXgMb6zIj6HA7-R
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250226T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -170,9 +155,9 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:oMmRdRY1h3l-pb5va2pXv
+UID:P8zQqSp4098ZKLnezAaIf
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250305T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -185,25 +170,24 @@ URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:quIzMbvy0wZ997UDNh4Uw
-SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
-DTSTART:20241220T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
-	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
-	list=PLuxqoToY7UcixG3IrVhA9d8QE08CQmOtx\nU-NEXT：https://video.unext.jp/tit
-	le/SID0104168\nABEMA：https://abema.tv/video/title/675-3\nNetflix：https://w
-	ww.netflix.com/title/81909977\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=134781\n蜜柑计划：https://mikanani.me/Home/Bangumi/3394\n動畫瘋：https://acg.g
-	amer.com.tw/acgDetail.php?s=134781\n动漫花园：https://share.dmhy.org/topics/lis
-	t?keyword=2.5次元\nNiconico：https://ch.nicovideo.jp/ririsa-official
-URL:https://bangumi.tv/subject/410346
+UID:RsnpbYhVs-QGa2sezw9Ys
+SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
+DTSTAMP:20241216T102015Z
+DTSTART:20250312T133000Z
+DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
+	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
+	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
+	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
+	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383
+URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uWBmyExPkx9utNt6SxIOp
+UID:VNg0y_eMY1Te1XBy8GZdr
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20241227T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -217,9 +201,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LTKIMMvle438YAwWiz7s7
+UID:uUv8sCThZKk1JwGJaZPV8
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250103T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -233,9 +217,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4aIVSiWzTJibdUJndu9rh
+UID:GlLY9-VlRaKpA-Jir8KSL
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250110T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -249,9 +233,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fJ-Ei-9hTfgNPUBq9Navi
+UID:1BatOWIZjt4sdo0uYAqW3
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250117T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -265,9 +249,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:89pvWm74aBA9Cp6e58ypr
+UID:oWhCRUPUGSU0huFZds5sp
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250124T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -281,9 +265,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:qVROJmEBuBQX-JUUU7r1Y
+UID:UVITLM5-U-FWxgkqq-sDv
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250131T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -297,9 +281,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fR3knR4bmFW4gR2HHptAU
+UID:a0dUUxkNsDfkENow9bEj6
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250207T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -313,9 +297,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:sn2ZAyqqknPd9egHjMndb
+UID:kVrPqEtoTt7DWNeP-7Wha
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250214T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -329,9 +313,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:o5UZWBWOe0EWQyT3z2mr8
+UID:ZQUg6PCuHnowAdiFL4JDK
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250221T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -345,9 +329,9 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Yf2E29wZCQTyDJIcTn8La
+UID:AH40dkCgEhOkalecHxD5N
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250228T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
@@ -361,10 +345,26 @@ URL:https://bangumi.tv/subject/410346
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-47o5VX-AQdoios-4IfSm
+UID:k36R3_tWAAGCdAKVp-xwn
 SUMMARY:上季旧番：《2.5次元的诱惑》
-DTSTAMP:20241209T102023Z
+DTSTAMP:20241216T102015Z
 DTSTART:20250307T133000Z
+DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
+	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
+	list=PLuxqoToY7UcixG3IrVhA9d8QE08CQmOtx\nU-NEXT：https://video.unext.jp/tit
+	le/SID0104168\nABEMA：https://abema.tv/video/title/675-3\nNetflix：https://w
+	ww.netflix.com/title/81909977\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.p
+	hp?s=134781\n蜜柑计划：https://mikanani.me/Home/Bangumi/3394\n動畫瘋：https://acg.g
+	amer.com.tw/acgDetail.php?s=134781\n动漫花园：https://share.dmhy.org/topics/lis
+	t?keyword=2.5次元\nNiconico：https://ch.nicovideo.jp/ririsa-official
+URL:https://bangumi.tv/subject/410346
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:ZfZF3OCUferDTONTRLui6
+SUMMARY:上季旧番：《2.5次元的诱惑》
+DTSTAMP:20241216T102015Z
+DTSTART:20250314T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/410346\n萌番组：https://bangumi.moe
 	/search/6681472357ba1568dc1b07fe\n木棉花 HK：https://www.youtube.com/playlist?
 	list=PLuxqoToY7UcixG3IrVhA9d8QE08CQmOtx\nU-NEXT：https://video.unext.jp/tit
