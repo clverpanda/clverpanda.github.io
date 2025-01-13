@@ -5,24 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:menQhTeEdYVbpGeO9IING
+UID:-Qud5BQosiwfGMRrfQDWF
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
-DTSTART:20250115T133000Z
-DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
-	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
-	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
-	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
-	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
-	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
-URL:https://bangumi.tv/subject/351349
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:B9ByhfCNkf9nv72gKrZkU
-SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250122T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -30,14 +15,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:q5o-hBqweWLhnYsaZP-Q1
+UID:gb6L2MbStvXtVqqbxbCHG
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250129T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -45,14 +31,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DlPL0QgP8U1ThE0xyhR1R
+UID:VVvD4yaIWQ3qjb7pPzDlj
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250205T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -60,14 +47,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ETYsX5oU3QdnsAkyAXY2s
+UID:esFZ_YOLZq8tao939qmKw
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250212T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -75,14 +63,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jdozWX3ur-WbskHdIubRR
+UID:6_WsNlAe5o5LItt22KN2B
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250219T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -90,14 +79,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:AnRGaVJMSP3p7gapW6nCY
+UID:kLoDph_az6xpPWg7X5vnd
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250226T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -105,14 +95,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:oivFVSvJH12v_qcyrzVV7
+UID:nLiI38E89yaVtTlvtO9z1
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250305T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -120,14 +111,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:zo46BBe31q7is7kzIRd_6
+UID:FovrvqpqigZNWeHSbhFE9
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250312T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -135,14 +127,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mTCI9O16hLcAa_fqecuag
+UID:1WMCJe8tY9W63T2_uX5zp
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250319T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -150,14 +143,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yU1n3GRL3HLt-8jfe1BnL
+UID:A7yp-8xxzQk2ay-5Vfj1U
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250326T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -165,14 +159,15 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OVaRQHckBxILjlAs9epog
+UID:b4-tsd6gRwbn6FsGyzQVT
 SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
-DTSTAMP:20250106T101833Z
+DTSTAMP:20250113T101848Z
 DTSTART:20250402T133000Z
 DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
 	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
@@ -180,7 +175,24 @@ DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://v
 	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
 	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
 	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3383
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
+URL:https://bangumi.tv/subject/351349
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:22xn72liFSLEUXx2VzySb
+SUMMARY:上季旧番：《你与我最后的战场，亦或是世界起始的圣战 第二季》
+DTSTAMP:20250113T101848Z
+DTSTART:20250409T133000Z
+DESCRIPTION:番组计划：https://bangumi.tv/subject/351349\nU-NEXT：https://video.un
+	ext.jp/title/SID0104151\nABEMA：https://abema.tv/video/title/25-154\n萌番组：ht
+	tps://bangumi.moe/search/6681471c57ba1568dc1b07e2\n哔哩哔哩：https://www.bilibi
+	li.com/bangumi/media/md22099673/\n動畫瘋：https://acg.gamer.com.tw/acgDetail.p
+	hp?s=126265\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=126265\n哔哩哔哩（
+	港澳台）：https://www.bilibili.com/bangumi/media/md22210378/\n蜜柑计划：https://mika
+	nani.me/Home/Bangumi/3383\ndアニメストア：https://animestore.docomo.ne.jp/animest
+	ore/ci_pc?workId=27156
 URL:https://bangumi.tv/subject/351349
 DURATION:PT24M
 END:VEVENT
