@@ -5,31 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:as0tfAAfR4kVr8weZDhpl
+UID:r8ux4Cv7dGQ155BvB2-Tp
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
-DTSTART:20260425T160000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
-	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
-	\nAniDB：https://anidb.net/anime/19293\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144827\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144827\n
-	ABEMA：https://abema.tv/video/title/115-128\nNiconico：https://ch.nicovideo.
-	jp/kanachoro-anime\nU-NEXT：https://video.unext.jp/title/SID0285880\nThe Mo
-	vie DB：https://www.themoviedb.org/tv/285818\nAni-One中文官方動畫頻道：https://www.y
-	outube.com/playlist?list=PLC18xlbCdwtTh8sYeXdgSF20_47YJcbCH\nAni-One Asia：
-	https://www.youtube.com/playlist?list=PLxSscENEp7JhVy3KHGqdAMw_lVe9Vq5UN\n
-	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28773\nCru
-	nchyroll：https://www.crunchyroll.com/series/GT00371860/\n蜜柑计划：https://mika
-	nani.me/Home/Bangumi/3900\n萌番组：https://bangumi.moe/search/69db11b24b29be5e
-	9e214f4e
-URL:https://bangumi.tv/subject/552589
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:NwmupajME8LeoMv-R61sc
-SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260502T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -49,9 +27,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:C04xuNMj4Umdpv7139W6k
+UID:jHuDY4EtirnL3WeqLgAVW
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260509T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -71,9 +49,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Wg7fdNvaBfXZxYKqk6OES
+UID:djYVZhHVEeVhK22PWZNq8
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260516T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -93,9 +71,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1QGX9M97fQK5Ggwq8Fkw4
+UID:vLeX-QrAJUifIt98vwevF
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260523T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -115,9 +93,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DeHBypWQefBtovDU1m-kI
+UID:3BPaGry_34CbqL2sMqJ4H
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260530T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -137,9 +115,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Yndj566fS8uGdzt_LZu8i
+UID:PeHdHO9HgG3xYyojTi4mV
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260606T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -159,9 +137,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LYNF-B5BMmDdTTg9npOHH
+UID:J2uoqWj7UZzskOVfIXW5D
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260613T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -181,9 +159,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uGZKRa3b3_wQ5_SGtZ_YD
+UID:0wVXikqH2AGgaZ9RzSdG9
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260620T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -203,9 +181,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0V9TFGCcPoNd70vEAcBjL
+UID:qIpcEPli-kN5UQuXaLD_w
 SUMMARY:迦楠大人的白给是恶魔级
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260627T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/552589\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61501\nAniList：https://anilist.co/anime/190704
@@ -225,31 +203,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jVA1s9pTW7YTVp1ddFFgm
+UID:1GI-5fGnOm2B3HqocHQO6
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
-DTSTART:20260424T133000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
-	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
-	\nAniDB：https://anidb.net/anime/18235\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=136023\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=136023\n
-	Niconico：https://ch.nicovideo.jp/otonarino-tenshisama2\nAni-One中文官方動畫頻道：ht
-	tps://www.youtube.com/playlist?list=PLC18xlbCdwtR1Jvy3yWXqHYZqVbfpACyF\nAn
-	i-One Asia：https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDp
-	grRsby7Z_\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId
-	=28791\nCrunchyroll：https://www.crunchyroll.com/series/G9VHN91DJ/\n蜜柑计划：ht
-	tps://mikanani.me/Home/Bangumi/3903\nThe Movie DB：https://www.themoviedb.o
-	rg/tv/154743/season/2\nU-NEXT：https://video.unext.jp/title/SID0282791\nPri
-	me Video：https://www.amazon.co.jp/gp/video/detail/B0DFL7H2TY\n萌番组：https://
-	bangumi.moe/search/69db11ad4b29be5e9e214f28
-URL:https://bangumi.tv/subject/458684
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:t1fI6xvsTLiPUDHtPVMNh
-SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260501T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -269,9 +225,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:q-la0rXiN9tg0wf6HZp4h
+UID:nZ6JldcH824nqDbx3E83V
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260508T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -291,9 +247,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-F_NbvFVP18XMofYn1kcC
+UID:EHfwbOGC0S9x8S_-nAxzP
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260515T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -313,9 +269,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:oFC-QVS4fGxUAsZG8znif
+UID:0N61nSf0_94TWfcpPD4IB
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260522T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -335,9 +291,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fpoYoOAE4v8lctPnvYscI
+UID:qGgvu-JZDAJuSmD_u0hJa
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260529T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -357,9 +313,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:eo4o-RmJLPf30j6VjC6Oi
+UID:PkT0wqb--DGMM6vp4rD-1
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260605T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -379,9 +335,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:V0jXG-NLjpVEhZ6JxwrO6
+UID:SR9JHWDWQaKZaS7KTM-Iu
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260612T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -401,9 +357,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:UuBVAOcycw9Z7wJkiKaDQ
+UID:7ErGipoX516N7--2s7ZKo
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260619T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -423,9 +379,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:iyiW3ChHmoLon11nzFB-e
+UID:dpnYUUL1vgZQrQh3tSMD1
 SUMMARY:关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260626T133000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/458684\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56876\nAniList：https://anilist.co/anime/170019
@@ -445,28 +401,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ES1YRNAkim9V3L5v5xhk-
+UID:IHEQeI4VtDevOt9t40j4u
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
-DTSTART:20260421T143000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
-	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
-	\nAniDB：https://anidb.net/anime/18209\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=135739\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=135739\n
-	Niconico：https://ch.nicovideo.jp/kuranika\nU-NEXT：https://video.unext.jp/t
-	itle/SID0285884\nABEMA：https://abema.tv/video/title/169-153\nThe Movie DB：
-	https://www.themoviedb.org/tv/290019\ndアニメストア：https://animestore.docomo.ne
-	.jp/animestore/ci_pc?workId=28724\nPrime Video：https://www.amazon.co.jp/gp
-	/video/detail/B0GVKZLC1H\n蜜柑计划：https://mikanani.me/Home/Bangumi/3914\n萌番组：
-	https://bangumi.moe/search/69db11a64b29be5e9e214efa
-URL:https://bangumi.tv/subject/456079
-LOCATION:第3集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:1qviz7B_Fuv3VRWLiV4rK
-SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260428T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -483,9 +420,9 @@ LOCATION:第4集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:whuuKcEVJL8xyJWbsf8Yk
+UID:QxxyAppKXwjrEzcZ-rLkY
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260505T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -502,9 +439,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Kkg-4EZCBSBqXlE2oKjzX
+UID:br0lObnLq5sKiyFkbsp_v
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260512T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -521,9 +458,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3nk8yRqt8rllgLiDyYahR
+UID:2t8_Yrq-I6ZYloCV714_k
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260519T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -540,9 +477,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lbsSKKhrREBPaMx1jIak5
+UID:GXK4Ryyem6N_rS12aH5iL
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260526T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -559,9 +496,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:sta6of3LKk4wU74xwJ-7i
+UID:iYdYsx21c6SAhxDVRK71r
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260602T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -578,9 +515,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:l4QsfnhQbdgcjQim2_JX3
+UID:X8ex8KrbzSL4LGW3igEMW
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260609T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -597,9 +534,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:KHuKh_yWehz22j_ISRyiF
+UID:zVjS659fnbzI_hK6m6Cb6
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260616T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -616,9 +553,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:_33z5aJkkA3NwUQMNnGCN
+UID:z51j62SqT4h2I7YesVLRL
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260623T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -635,9 +572,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Zt_FFSsCM9axAkgoAkZo_
+UID:oRRMqxz5xFU7nnmXtI-N8
 SUMMARY:和班上第二可爱的女孩成为朋友
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260630T143000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/456079\nMyAnimeList：ht
 	tps://myanimelist.net/anime/56734\nAniList：https://anilist.co/anime/169580
@@ -654,29 +591,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8Lt7V1P_JaL9qRkc2i08g
+UID:ini11PwmniBnWMM_vJGMl
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
-DTSTART:20260425T153000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
-	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
-	\nAniDB：https://anidb.net/anime/19713\nThe Movie DB：https://www.themoviedb
-	.org/tv/305329\nNiconico：https://ch.nicovideo.jp/needygirl-anime\n動畫瘋：http
-	s://acg.gamer.com.tw/acgDetail.php?s=148120\n動畫瘋 HK：https://acg.gamer.com.
-	tw/acgDetail.php?s=148120\nABEMA：https://abema.tv/video/title/26-261\nCrun
-	chyroll：https://www.crunchyroll.com/series/GT00371863/\n蜜柑计划：https://mikan
-	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
-	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
-	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
-URL:https://bangumi.tv/subject/606263
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:U6x1hZG-BIVAo3a3DjXZ5
-SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260502T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -688,15 +605,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-RZvHJB2cjTDLf4NHBygL
+UID:hVsCCeIm_929uZ9tzYDMN
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260509T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -708,15 +626,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:wKQAJ-EhrWWN3rQ7EwGLw
+UID:0ePpgSsuXk4_ppAPFNl6X
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260516T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -728,15 +647,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:GLpXjgmgHeYqqyMWqF6p-
+UID:BKB-AlUnl7ZviqY_TLTcM
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260523T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -748,15 +668,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7HCH72BLvGY8UNrxAhTr9
+UID:lkqojPNYJYbFKX8Cxhngg
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260530T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -768,15 +689,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:pT7TqDv6Vq1gWVEVBheBF
+UID:U8Dr34gIlOqJ46omHkTwI
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260606T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -788,15 +710,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XY3-MQFYlY3gzIpNRDhMd
+UID:kH1Dh1cO8MC2dx86SiQFQ
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260613T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -808,15 +731,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-nlB0RbzeiMk7NEddRDbo
+UID:dn2vmGtldj8ody8eunaea
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260620T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -828,15 +752,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5PYyc-po8L1cxRyCOPDjd
+UID:eZKKjwHl_0Lgg3Y3IGe2V
 SUMMARY:主播女孩重度依赖
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260627T153000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606263\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62913\nAniList：https://anilist.co/anime/202102
@@ -848,31 +773,16 @@ DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/606
 	ani.me/Home/Bangumi/3933\nU-NEXT：https://video.unext.jp/title/SID0282777\n
 	dアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28792\nmyT
 	V SUPER：https://www.mytvsuper.com/tc/programme/needygirloverdose_146143/\n
-	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a
+	萌番组：https://bangumi.moe/search/69db11b24b29be5e9e214f4a\nPrime Video：https
+	://www.amazon.co.jp/gp/video/detail/B0GQJLLZP6
 URL:https://bangumi.tv/subject/606263
 LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:WOUQgf0nwQhXDJA7sDcxr
+UID:0OhzFXUKo3gL2kTdT6sgj
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
-DTSTART:20260423T162800Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
-	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
-	\nAniDB：https://anidb.net/anime/19744\nU-NEXT：https://video.unext.jp/title
-	/SID0282780\nABEMA：https://abema.tv/video/title/173-9\n蜜柑计划：https://mikana
-	ni.me/Home/Bangumi/3936\ndアニメストア：https://animestore.docomo.ne.jp/animestor
-	e/ci_pc?workId=28842\nCrunchyroll：https://www.crunchyroll.com/series/GT003
-	71668/\n萌番组：https://bangumi.moe/search/69db11ab4b29be5e9e214f20
-URL:https://bangumi.tv/subject/567418
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:wAtDrC7_BwYpGT1Tqd6wy
-SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260430T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -886,9 +796,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xP40fzvP2zMZuph9mVVzB
+UID:A3geGY7k3PokXFo_-CozE
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260507T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -902,9 +812,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:201yJdK8hCJyEls5v64dn
+UID:8UCPEkQDDIXUkMB1wIvCC
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260514T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -918,9 +828,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ja2IKf7hQRngnwpZVl9AE
+UID:Ufi28vA0MHE94M3b35dOj
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260521T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -934,9 +844,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VsG7zShUPE-6DUvaLHEEC
+UID:BPsKVTAbPq58ZyixyKAaY
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260528T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -950,9 +860,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LRjEY5wk_VlcwsH_uqKwS
+UID:j_oXk2K3meio2wHCfCiPs
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260604T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -966,9 +876,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xmIL8CGYo_0kHutq5uTuB
+UID:tNopGoFh7jzpLMhBi3JXT
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260611T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -982,9 +892,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:LlF4a0Jwi6qu05-65K5rl
+UID:_IkkRuwcjygYn_pgxLadN
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260618T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -998,9 +908,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jXXyqK4hL8fYRnuLSTFIy
+UID:_IwWB6rUpLELpXSlFKwtv
 SUMMARY:灰原同学重返过去，开启所向无敌的第二轮青春游戏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260625T162800Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/567418\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61943\nAniList：https://anilist.co/anime/195333
@@ -1014,29 +924,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:uUNMZn262r86clthB9PNO
+UID:Rmauo7pGhMp1duDTC5aPQ
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
-DTSTART:20260423T165300Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
-	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
-	\nAniDB：https://anidb.net/anime/19587\nThe Movie DB：https://www.themoviedb
-	.org/tv/96316\nU-NEXT：https://video.unext.jp/title/SID0285876\n動畫瘋：https:/
-	/acg.gamer.com.tw/acgDetail.php?s=147356\n動畫瘋 HK：https://acg.gamer.com.tw/
-	acgDetail.php?s=147356\nNiconico：https://ch.nicovideo.jp/kanokari-official
-	5\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28794\n
-	Crunchyroll：https://www.crunchyroll.com/series/G6QWV3976/\nPrime Video：htt
-	ps://www.amazon.co.jp/gp/video/detail/B0GVKRYL3Y\nABEMA：https://abema.tv/v
-	ideo/title/194-15\n蜜柑计划：https://mikanani.me/Home/Bangumi/3945\n萌番组：https:/
-	/bangumi.moe/search/69db11ae4b29be5e9e214f32
-URL:https://bangumi.tv/subject/533027
-LOCATION:第3集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:t-7Vs3Psc9oPI-6zzWsJ_
-SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260430T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1054,9 +944,9 @@ LOCATION:第4集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:AM7T3udOISC1eyqeCg5GV
+UID:ANYmu0aP-kppr8iYLsULI
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260507T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1074,9 +964,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5W4iD9jPMckoZp2FK5cEP
+UID:GzyxzKqPxLxEM6KGBYCJi
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260514T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1094,9 +984,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vTPZwAYY331krHVHOcdmX
+UID:6RVSliw9OvE669HqWSzJd
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260521T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1114,9 +1004,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7OAxkkdAmNuRn8IVxMuhf
+UID:Ld2heNEENsVjHN0_lWrJU
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260528T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1134,9 +1024,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VJP_0ZM9DWAVrQbIo-qBJ
+UID:pPhKcvdJaJ0yxZlajdor9
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260604T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1154,9 +1044,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-LK2SbISieKU7cB1R0IAb
+UID:lQR5gNtVsZGiUFRCKodkb
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260611T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1174,9 +1064,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:sTfHx54jYtBT8HE5h3Zfi
+UID:YF46DKzoA8iCnu8k9tHym
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260618T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1194,9 +1084,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:QVA7gkjofug9dJoywQPCZ
+UID:rQbMIGvY8ZBe51LqzOm6S
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260625T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1214,9 +1104,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bN8xPMCHFNbZVJywnjUWS
+UID:pmRQhPcg8DCA_3vfkU8MX
 SUMMARY:租借女友 第五季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260702T165300Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/533027\nMyAnimeList：ht
 	tps://myanimelist.net/anime/62485\nAniList：https://anilist.co/anime/199029
@@ -1234,29 +1124,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:Z0Cs_IGWm8wyegt-EZw5N
+UID:HyAZ5wXc4Ie_H8_Z0gryL
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
-DTSTART:20260426T073000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
-	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
-	iList：https://anilist.co/anime/182300\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=141666\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=141666\n
-	The Movie DB：https://www.themoviedb.org/tv/245842/season/2\nABEMA：https://
-	abema.tv/video/title/420-68\nU-NEXT：https://video.unext.jp/title/SID028588
-	6\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=28838\n
-	木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfppV3iCQ5hA6KYvNsB
-	YR20q\n蜜柑计划：https://mikanani.me/Home/Bangumi/3947\nNetflix：https://www.net
-	flix.com/title/81900358\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3042355/
-	\nPrime Video：https://www.amazon.co.jp/gp/video/detail/B0GW4GXV5M
-URL:https://bangumi.tv/subject/515856
-LOCATION:第3集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:yf102wk5QF5GcFt8NnTzC
-SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260503T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1274,9 +1144,9 @@ LOCATION:第4集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:xLmnKoYb6aw_cFKUIjlQi
+UID:EwTbqVGhInUr4MkBjYPJB
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260510T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1294,9 +1164,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2Jkj7ivCcI84OW5miIbFr
+UID:pgKw4jvbtepGbRKzRiNXg
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260517T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1314,9 +1184,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9Y1GAOrlMof4_cktX0Ad9
+UID:vJuIIr9i4tnUbL3KcXxi5
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260524T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1334,9 +1204,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bYkDL4LQj8G9-Gdu26CER
+UID:zGq_xukQ8h7xR73PndmiS
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260531T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1354,9 +1224,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BQix_11kxVkGIOJG14HIF
+UID:5nUFjuruCv03a7SgTiOzq
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260607T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1374,9 +1244,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:yv7ZXbS_f_x5OpS9dvtL9
+UID:F3ozJKSIVZ5CaUODxnteE
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260614T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1394,9 +1264,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7OeplR1MF8oxvThp4oXOf
+UID:qOSQwxevim9U_Z3gkxdEG
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260621T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1414,9 +1284,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:lkNU2S5fMODVxUMIAedxU
+UID:88k1bhJzKAs1rqir2JkWl
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260628T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1434,9 +1304,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:GYKH9-6bqFKIEYDUGUPOf
+UID:nXKCujDojLwAM85UpoQzf
 SUMMARY:杖与剑的魔剑谭 第二季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260705T073000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515856\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59983\nAniDB：https://anidb.net/anime/18889\nAn
@@ -1454,30 +1324,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:KukMfEhyF7hDoOl3aJT7_
+UID:ZLXNS5MGU5HaHXaHgW9Eg
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
-DTSTART:20260422T130000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
-	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
-	iList：https://anilist.co/anime/180745\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=141201\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=141201\n
-	Niconico：https://ch.nicovideo.jp/you-zitsu4\nU-NEXT：https://video.unext.jp
-	/title/SID0284841\n木棉花 HK：https://www.youtube.com/playlist?list=PLuxqoToY7
-	UcgOsqvHTZq_u-nFFgCJcDb4\n蜜柑计划：https://mikanani.me/Home/Bangumi/3949\nThe 
-	Movie DB：https://www.themoviedb.org/tv/72517/season/4\nPrime Video：https:/
-	/www.amazon.co.jp/gp/video/detail/B0GVKXK7SF\n木棉花 TW：https://www.youtube.c
-	om/playlist?list=PL12UaAf_xzfrovYvVuugbKfSUOYN5OEoO\nCrunchyroll：https://w
-	ww.crunchyroll.com/series/GRVN8MNQY/\nABEMA：https://abema.tv/video/title/2
-	5-73\n萌番组：https://bangumi.moe/search/69db11a74b29be5e9e214f04
-URL:https://bangumi.tv/subject/510710
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:c4QAxa03lWfTAzF-zcKtc
-SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260429T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1496,9 +1345,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XUAJR3YH3fhuJJMAhNZmJ
+UID:wwOr6EKXuhdACOcELD5bq
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260506T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1517,9 +1366,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:UOdqckV6jyQMRgFGBN4yz
+UID:0IbLLslxrYM9oz3kn4awt
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260513T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1538,9 +1387,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:mlXm8gew4rzHv0056p_xZ
+UID:dS8bs2TXyqVZzslcirePd
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260520T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1559,9 +1408,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2hK_q7ND15VvwEVK_hoFn
+UID:DLK4Eu9C9kU4nqODB7aEp
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260527T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1580,9 +1429,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8CXcNJH1THWvn3rqnztOk
+UID:qJtHEGokCgLiXTUrWoULz
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260603T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1601,9 +1450,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7zLQ863FOqhPtKwU4CUTf
+UID:MWyP_0Ao00VlqjOOn_qY9
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260610T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1622,9 +1471,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:OsMs06RmxQ8IPWZSk5plR
+UID:epvL8nNbvmI0N049Fs_h3
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260617T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1643,9 +1492,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XTAW7Etkl6vexjEAqXBvI
+UID:hqGmHlPIdT3FADthlXGkB
 SUMMARY:欢迎来到实力至上主义教室 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260624T130000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/510710\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59708\nAniDB：https://anidb.net/anime/18844\nAn
@@ -1664,249 +1513,219 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:VJKTMI-K_gqChQR-6jkSr
+UID:7DwlcH64a2YOkxw80zxfg
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
-DTSTART:20260422T140000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
-	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
-URL:https://bangumi.tv/subject/547888
-LOCATION:第3集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:A9DPm3NdIHPff1Qj2b30Y
-SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260429T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第4集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:PR0f0qzeLvPfRlrG-8cqo
+UID:XNUAlioJdkEn222fOb4JS
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260506T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:WxiNlr6yZePHQr2vthbmP
+UID:umhP-ML7YKbIG5Z7U6RXF
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260513T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:11a9Ujo-l2v1Fn3Rd5XCK
+UID:0545nb0y8DIyWVZRolkus
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260520T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:DHvdsuSqZi4uth8S68K_V
+UID:9ELbeTS6jqaJTog258yyi
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260527T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:XxnrM5mIz9IscxNpCr4GA
+UID:xuLFKphN0klSa_Esd8G8T
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260603T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b0DuAZxp0udasPIoEC6f-
+UID:N3cFw-CjpftHCleY2TmnT
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260610T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:zzxoJtaTE-Y4P_lic3hN3
+UID:0W_exDvsFY2siW4tTtdok
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260617T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:vD5vVlKnSPvkINfhizItU
+UID:duPkKse_vnpUORGvGiWFQ
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260624T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:YikSB5jee2mRuM6pJCSIG
+UID:W9IVjy6U0KnRF3mvgNMzi
 SUMMARY:Re：从零开始的异世界生活 第四季 丧失篇
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260701T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/547888\nMyAnimeList：ht
 	tps://myanimelist.net/anime/61316\nAniDB：https://anidb.net/anime/19242\nAn
-	iList：https://anilist.co/anime/189046\n動畫瘋：https://acg.gamer.com.tw/acgDet
-	ail.php?s=144453\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=144453\n
-	U-NEXT：https://video.unext.jp/title/SID0284840\nNiconico：https://ch.nicovi
-	deo.jp/re-zero-anime_04\n木棉花 TW：https://www.youtube.com/playlist?list=PL12
-	UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3
-	036512/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?workId=2
-	8801\nABEMA：https://abema.tv/video/title/25-139\nPrime Video：https://www.a
-	mazon.co.jp/gp/video/detail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bang
-	umi/3951\n萌番组：https://bangumi.moe/search/69db11a84b29be5e9e214f06
+	iList：https://anilist.co/anime/189046\nThe Movie DB：https://www.themoviedb
+	.org/tv/65942\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=144453\n動畫瘋 HK
+	：https://acg.gamer.com.tw/acgDetail.php?s=144453\nU-NEXT：https://video.une
+	xt.jp/title/SID0284840\nNiconico：https://ch.nicovideo.jp/re-zero-anime_04\
+	n木棉花 TW：https://www.youtube.com/playlist?list=PL12UaAf_xzfor6SdQvoC7pr7Hwf
+	owmr5Q\nViu：https://www.viu.com/ott/hk/zh-hk/vod/3036512/\ndアニメストア：https:/
+	/animestore.docomo.ne.jp/animestore/ci_pc?workId=28801\nABEMA：https://abem
+	a.tv/video/title/25-139\nPrime Video：https://www.amazon.co.jp/gp/video/det
+	ail/B0GVGTDNBP\n蜜柑计划：https://mikanani.me/Home/Bangumi/3951\n萌番组：https://ba
+	ngumi.moe/search/69db11a84b29be5e9e214f06
 URL:https://bangumi.tv/subject/547888
 LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:pMrk_pUSKgrVKjXCD27W5
+UID:E_5MUJPTyh7KP7qme7Ox8
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
-DTSTART:20260424T140000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
-	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
-	iList：https://anilist.co/anime/182205\nThe Movie DB：https://www.themoviedb
-	.org/tv/82684/season/4\n動畫瘋：https://acg.gamer.com.tw/acgDetail.php?s=14165
-	6\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.php?s=141656\nNiconico：https:
-	//ch.nicovideo.jp/ten-sura_4\nABEMA：https://abema.tv/video/title/420-11\nP
-	rime Video：https://www.amazon.co.jp/gp/video/detail/B0GVMWXSB7\nU-NEXT：htt
-	ps://video.unext.jp/title/SID0285889\nViu：https://www.viu.com/ott/hk/zh-hk
-	/vod/3029209/\ndアニメストア：https://animestore.docomo.ne.jp/animestore/ci_pc?wo
-	rkId=28823\n蜜柑计划：https://mikanani.me/Home/Bangumi/3952\n萌番组：https://bangum
-	i.moe/search/69db11ad4b29be5e9e214f2a
-URL:https://bangumi.tv/subject/515594
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ssfRXykBruaTx36w7qXeD
-SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260501T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -1924,9 +1743,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:zjuYZrMTXhVAE1D8t2FmK
+UID:_MzrZDpLyxQtbiRh1RgAv
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260508T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -1944,9 +1763,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b42ohrdDqwi5F2WX1SvQM
+UID:9GOnOHF0svTVq0JuIL3Rp
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260515T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -1964,9 +1783,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:BK3lPxDOEfvxqsqzU0soZ
+UID:rArzmE3UBPaNGqqahCOFM
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260522T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -1984,9 +1803,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:s0_-CZGN3oxeT26ot8UuI
+UID:EkuezpDiP3rL9uIItJxw-
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260529T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -2004,9 +1823,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:y0MDI3m7ukML3L9ZLmvZ4
+UID:LcfPza4DoOTnIqeLUlQNK
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260605T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -2024,9 +1843,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:T6FVGTd155JPnBAdChD94
+UID:_Ob5m1LSugl5TZJoz2nSv
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260612T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -2044,9 +1863,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:plXu_c2U6KiA-N1YJh0gC
+UID:ZHVBLvrWK1K09drkLb1yY
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260619T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -2064,9 +1883,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:azNHluDAJU81ZOl4wQBrU
+UID:6VIJ863xgAJPRrJMsQCRE
 SUMMARY:关于我转生变成史莱姆这档事 第四季
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260626T140000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/515594\nMyAnimeList：ht
 	tps://myanimelist.net/anime/59970\nAniDB：https://anidb.net/anime/18884\nAn
@@ -2084,27 +1903,9 @@ LOCATION:第13集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:JMu3Ur8cgkw8fC8NAhAnC
+UID:P_odnEUb_2pRlWyTWI6Rz
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
-DTSTART:20260425T160000Z
-DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
-	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
-	83\nAniList：https://anilist.co/anime/202523\nAniDB：https://anidb.net/anime
-	/19730\nABEMA：https://abema.tv/video/title/643-20\n動畫瘋：https://acg.gamer.c
-	om.tw/acgDetail.php?s=149910\n動畫瘋 HK：https://acg.gamer.com.tw/acgDetail.ph
-	p?s=149910\n蜜柑计划：https://mikanani.me/Home/Bangumi/3959\ndアニメストア：https://an
-	imestore.docomo.ne.jp/animestore/ci_pc?workId=28772\nU-NEXT：https://video.
-	unext.jp/title/SID0282806\n萌番组：https://bangumi.moe/search/69db11a24b29be5e
-	9e214ee2
-URL:https://bangumi.tv/subject/609183
-LOCATION:第4集
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:LwbbGkoyfDzkgA4J1DYME
-SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260502T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2120,9 +1921,9 @@ LOCATION:第5集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:HdOaTdic6-ZL7qo5pJ63R
+UID:sOx3IB8o7Tc4P9NqT7qsG
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260509T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2138,9 +1939,9 @@ LOCATION:第6集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:rkOdboOcGQfT-KQ4FLBNd
+UID:uoCjHdu_81UhR718A9-CR
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260516T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2156,9 +1957,9 @@ LOCATION:第7集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:-1JPMZSpuJYwSjPfhJ4gU
+UID:CyA2PvOixY6tZV-IrATmt
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260523T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2174,9 +1975,9 @@ LOCATION:第8集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:U0T0OnkPpRQvfV_F-VdAw
+UID:FzCf8nfa4IfvjJSGm28-E
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260530T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2192,9 +1993,9 @@ LOCATION:第9集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:X4_RFwEdSyl52aewQKBpx
+UID:_yRuYXZrCIUV_J3afO6RS
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260606T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2210,9 +2011,9 @@ LOCATION:第10集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3_ITa35o4FZXyOHEpMLfI
+UID:If7Ye6W0kDXPr4gIHx3Jd
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260613T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2228,9 +2029,9 @@ LOCATION:第11集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ULBKBJbiU9Y8U3G6EYGij
+UID:qHx-7gHZJx4k6ESwStOd_
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260620T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
@@ -2246,9 +2047,9 @@ LOCATION:第12集
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:jfbMf30p3d2DLDhcekcCb
+UID:bgDBM1FOlln0vwDwwmizA
 SUMMARY:茉莉花酱的好感度正在崩坏
-DTSTAMP:20260420T111922Z
+DTSTAMP:20260427T114359Z
 DTSTART:20260627T160000Z
 DESCRIPTION:分类：本季新番\n番组计划：https://bangumi.tv/subject/609183\nNiconico：https
 	://ch.nicovideo.jp/marikowa\nMyAnimeList：https://myanimelist.net/anime/629
